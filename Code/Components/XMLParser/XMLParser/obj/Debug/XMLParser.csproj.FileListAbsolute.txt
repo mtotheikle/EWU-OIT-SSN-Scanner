@@ -1,0 +1,5 @@
+c:\documents and settings\mat\my documents\visual studio 2010\Projects\XMLParser\XMLParser\bin\Debug\XMLParser.dll
+c:\documents and settings\mat\my documents\visual studio 2010\Projects\XMLParser\XMLParser\bin\Debug\XMLParser.pdb
+c:\documents and settings\mat\my documents\visual studio 2010\Projects\XMLParser\XMLParser\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\mat\my documents\visual studio 2010\Projects\XMLParser\XMLParser\obj\Debug\XMLParser.dll
+c:\documents and settings\mat\my documents\visual studio 2010\Projects\XMLParser\XMLParser\obj\Debug\XMLParser.pdb

@@ -1,0 +1,10 @@
+c:\users\gsprint\documents\visual studio 2010\Projects\OfficeParser\OfficeParser\bin\Debug\OfficeParser.dll
+c:\users\gsprint\documents\visual studio 2010\Projects\OfficeParser\OfficeParser\bin\Debug\OfficeParser.pdb
+c:\users\gsprint\documents\visual studio 2010\Projects\OfficeParser\OfficeParser\obj\Debug\ResolveAssemblyReference.cache
+c:\users\gsprint\documents\visual studio 2010\Projects\OfficeParser\OfficeParser\obj\Debug\OfficeParser.dll
+c:\users\gsprint\documents\visual studio 2010\Projects\OfficeParser\OfficeParser\obj\Debug\OfficeParser.pdb
+C:\Documents and Settings\Mat\Desktop\Office\OfficeParser\bin\Debug\OfficeParser.dll
+C:\Documents and Settings\Mat\Desktop\Office\OfficeParser\bin\Debug\OfficeParser.pdb
+C:\Documents and Settings\Mat\Desktop\Office\OfficeParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mat\Desktop\Office\OfficeParser\obj\Debug\OfficeParser.dll
+C:\Documents and Settings\Mat\Desktop\Office\OfficeParser\obj\Debug\OfficeParser.pdb

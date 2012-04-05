@@ -1,0 +1,369 @@
+public static void Determine_Parser(System.IO.FileInfo fi)
+        {
+            string ext = fi.Extension.ToString();
+
+            if(Is_Archive(ext))
+            {
+                //extract code
+                SevenZipExtractor extractor = null;
+                try
+                {
+                    //path to the systems temporary folder
+                    String tempFolderPath = Path.GetTempPath();
+                    tempFolderPath += "temp_dir\\";
+                    //create a directory to dump everything into inside the temp folder
+                    Directory.CreateDirectory(tempFolderPath);
+
+                    //set the path of the 7z.dll (it needs to be in the debug folder)
+                    SevenZipExtractor.SetLibraryPath("7z.dll");
+                    extractor = new SevenZipExtractor(fi.FullName);
+
+                    //Extract the entire file
+                    extractor.ExtractArchive(tempFolderPath);
+                    extractor.Dispose();
+
+                    bool arcs = true;
+                    while (arcs)
+                    {
+                        arcs = false;
+                        // traverse files
+                        string[] fileEntries = Directory.GetFiles(tempFolderPath);
+                        foreach (string fileName in fileEntries)
+                        {
+                            //Console.WriteLine("IN ARCHIVE: " + fileName);
+                            FileInfo archive = new FileInfo(fileName);
+                            if(Is_Archive(archive.Extension.ToString()))
+                            {
+                                arcs = true;
+                                extractor = new SevenZipExtractor(fileName);
+                                extractor.ExtractArchive(tempFolderPath);
+                                File.Delete(fileName);
+                            }
+                        }
+                    }
+                    int[] totals = new int[2]; //totals[0] count; totals[1] results;
+                    string[] fileEntries2 = Directory.GetFiles(tempFolderPath);
+                    foreach (string fileName in fileEntries2)
+                    {
+                        int[] results = Not_Archive(new FileInfo(fileName), true);
+                        totals[0] += results[0];
+                        if(results[1] > totals[1])
+                            totals[1] = results[1];
+                    }
+                    //Count how many files in archive
+                    //int count = Directory.GetFiles(tempFolderPath, "*.*", SearchOption.AllDirectories).Length;
+                    //delete the temporary directory we created at the beginning
+                    Directory.Delete(tempFolderPath, true);
+                    if (totals[1] > 0)
+                    {
+                        WriteToLog(fi.Name, fi.FullName, totals[1].ToString(), totals[0]);
+                    }
+                }
+                catch (Exception e)
+                {
+                    //get rid of the object because it is unmanaged
+                    extractor.Dispose();
+                    Console.WriteLine(e.Message);
+                }
+            }
+            else
+            {
+                int [] ignore = Not_Archive(fi, false);
+            }
+        }
+
+        public static bool Is_Archive(string ext)
+        {
+            if (ext.CompareTo(".zip") == 0 || ext.CompareTo(".7z") == 0 || ext.CompareTo(".xz") == 0 || ext.CompareTo(".bzip2") == 0 ||
+                ext.CompareTo(".gzip") == 0 || ext.CompareTo(".tar") == 0 || ext.CompareTo(".wim") == 0 || ext.CompareTo(".arj") == 0 ||
+                ext.CompareTo(".cab") == 0 || ext.CompareTo(".chm") == 0 || ext.CompareTo(".cpio") == 0 || ext.CompareTo(".cramfs") == 0 ||
+                ext.CompareTo(".deb") == 0 || ext.CompareTo(".fat") == 0 || ext.CompareTo(".hfs") == 0 || ext.CompareTo(".iso") == 0 ||
+                ext.CompareTo(".lzh") == 0 || ext.CompareTo(".lzma") == 0 || ext.CompareTo(".mbr") == 0 || ext.CompareTo(".msi") == 0 ||
+                ext.CompareTo(".nsis") == 0 || ext.CompareTo(".ntfs") == 0 || ext.CompareTo(".rar") == 0 || ext.CompareTo(".rpm") == 0 ||
+                ext.CompareTo(".squashfs") == 0 || ext.CompareTo(".udf") == 0 || ext.CompareTo(".vhd") == 0 || ext.CompareTo(".xar") == 0 ||
+                ext.CompareTo(".z") == 0)
+            {
+                return true;
+            }
+            return false;
+        }
+        public static int[] Not_Archive(System.IO.FileInfo fi, bool parent_is_archive)
+        {
+            //results[0] count
+            //results[1] priority
+            int[] results = new int[2];
+            string ext = fi.Extension.ToString();
+            if (ext.CompareTo(".txt") == 0)
+            {
+                try
+                {
+                    StreamReader textFile = new StreamReader(fi.FullName);
+                    string text = textFile.ReadToEnd();
+                    textFile.Close();
+                    // MessageBox.Show(fi.FullName);
+                    int retCode, count = 0;
+                    retCode = UnsafeNativeMethod.ScanAnsi(text.ToCharArray(), text.Length, ref count);
+                    if (retCode > 0)
+                    {
+                        if (parent_is_archive)
+                        {
+                            results[0] = count;
+                            results[1] = retCode;
+                        }
+                        else
+                        {
+                            WriteToLog(fi.Name, fi.FullName, retCode.ToString(), count);
+                        }
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+            else if (ext.CompareTo(".rtf") == 0)
+            {
+                try
+                {
+                    RichTextBox rtb = new RichTextBox();
+                    rtb.Rtf = System.IO.File.ReadAllText(fi.FullName);
+                    string text = rtb.Text;
+                    //Console.WriteLine(s);
+                    int retCode, count = 0;
+                    retCode = UnsafeNativeMethod.ScanAnsi(text.ToCharArray(), text.Length, ref count);
+                    if (retCode > 0)
+                    {
+                        if (parent_is_archive)
+                        {
+                            results[0] = count;
+                            results[1] = retCode;
+                        }
+                        else
+                        {
+                            WriteToLog(fi.Name, fi.FullName, retCode.ToString(), count);
+                        }
+                    }
+                    //Console.WriteLine("\t" + text);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+            else if (ext.CompareTo(".pdf") == 0)
+            {
+                try
+                {
+                    String text = PDFParser.Parser.ParsePDFtoString(fi.FullName);
+                    int retCode, count = 0;
+                    retCode = UnsafeNativeMethod.ScanAnsi(text.ToCharArray(), text.Length, ref count);
+                    if (retCode > 0)
+                    {
+                        if (parent_is_archive)
+                        {
+                            results[0] = count;
+                            results[1] = retCode;
+                        }
+                        else
+                        {
+                            WriteToLog(fi.Name, fi.FullName, retCode.ToString(), count);
+                        }
+                    }
+                    //Console.WriteLine("\t" + text);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+            else if (ext.CompareTo(".doc") == 0 || ext.CompareTo(".xls") == 0 || ext.CompareTo(".ppt") == 0)
+            {
+                try
+                {
+                    TextReader reader = new FilterReader(fi.FullName);
+                    String text = "";
+                    using (reader) { text = reader.ReadToEnd(); }
+                    int retCode, count = 0;
+                    retCode = UnsafeNativeMethod.ScanAnsi(text.ToCharArray(), text.Length, ref count);
+                    if (retCode > 0)
+                    {
+                        if (parent_is_archive)
+                        {
+                            results[0] = count;
+                            results[1] = retCode;
+                        }
+                        else
+                        {
+                            WriteToLog(fi.Name, fi.FullName, retCode.ToString(), count);
+                        }
+                    }
+                    //Console.WriteLine("\t" + text);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+            else if (ext.CompareTo(".docx") == 0)
+            {
+                try
+                {
+                    String text = OfficeParser.Parser.docxParser(fi.FullName);
+                    if (text != null)
+                    {
+                        int retCode, count = 0;
+                        retCode = UnsafeNativeMethod.ScanAnsi(text.ToCharArray(), text.Length, ref count);
+                        if (retCode > 0)
+                        {
+                            if (parent_is_archive)
+                            {
+                                results[0] = count;
+                                results[1] = retCode;
+                            }
+                            else
+                            {
+                                WriteToLog(fi.Name, fi.FullName, retCode.ToString(), count);
+                            }
+                        }
+                    }
+                    //Console.WriteLine("\t" + text);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+
+            else if (ext.CompareTo(".xlsx") == 0)
+            {
+                try
+                {
+                    String text = OfficeParser.Parser.xlsxParser(fi.FullName);
+                    if (text != null)
+                    {
+                        int retCode, count = 0;
+                        retCode = UnsafeNativeMethod.ScanAnsi(text.ToCharArray(), text.Length, ref count);
+                        if (retCode > 0)
+                        {
+                            if (parent_is_archive)
+                            {
+                                results[0] = count;
+                                results[1] = retCode;
+                            }
+                            else
+                            {
+                                WriteToLog(fi.Name, fi.FullName, retCode.ToString(), count);
+                            }
+                        }
+                        //Console.WriteLine("\t" + text);
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+            else if (ext.CompareTo(".pptx") == 0)
+            {
+                try
+                {
+                    String text = OfficeParser.Parser.pptxParser(fi.FullName);
+                    if (text != null)
+                    {
+                        int retCode, count = 0;
+                        retCode = UnsafeNativeMethod.ScanAnsi(text.ToCharArray(), text.Length, ref count);
+                        if (retCode > 0)
+                        {
+                            if (parent_is_archive)
+                            {
+                                results[0] = count;
+                                results[1] = retCode;
+                            }
+                            else
+                            {
+                                WriteToLog(fi.Name, fi.FullName, retCode.ToString(), count);
+                            }
+                        }
+                        //Console.WriteLine("\t" + text);
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+            else if (ext.CompareTo(".odt") == 0 || ext.CompareTo(".ods") == 0 || ext.CompareTo(".odp") == 0)
+            {
+                try
+                {
+                    String text = OfficeParser.Parser.openOfficeParser(fi.FullName);
+                    if (text != null)
+                    {
+                        int retCode, count = 0;
+                        retCode = UnsafeNativeMethod.ScanAnsi(text.ToCharArray(), text.Length, ref count);
+                        if (retCode > 0)
+                        {
+                            if (parent_is_archive)
+                            {
+                                results[0] = count;
+                                results[1] = retCode;
+                            }
+                            else
+                            {
+                                WriteToLog(fi.Name, fi.FullName, retCode.ToString(), count);
+                            }
+                        }
+                        //Console.WriteLine("\t" + text);
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+            else if (ext.CompareTo(".xml") == 0)
+            {
+                try
+                {
+                    String text = XMLParser.Parser.ParseXMLtoString(fi.FullName);
+                    int retCode, count = 0;
+                    retCode = UnsafeNativeMethod.ScanAnsi(text.ToCharArray(), text.Length, ref count);
+                    if (retCode > 0)
+                    {
+                        if (parent_is_archive)
+                        {
+                            results[0] = count;
+                            results[1] = retCode;
+                        }
+                        else
+                        {
+                            WriteToLog(fi.Name, fi.FullName, retCode.ToString(), count);
+                        }
+                    }
+                    //Console.WriteLine("\t" + text);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+            else if (ext.CompareTo(".pst") == 0)
+            {
+				try
+                {
+                    com.pff.PSTFile pstFile = new com.pff.PSTFile(fi.FullName);
+                    String text = pstFile.processFolder(pstFile.getRootFolder());
+                    int retCode, count = 0;
+                    retCode = UnsafeNativeMethod.ScanAnsi(text.ToCharArray(), text.Length, ref count);
+                    if (retCode > 0)
+                        WriteToLog(fi.Name, fi.FullName, retCode.ToString(), count);
+                    //Console.WriteLine("\t" + text);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+            return results;
+        }
+    }

@@ -1,0 +1,10 @@
+C:\Users\Cyrus\Desktop\IFilter\Source\Tester\bin\Debug\IFilterTester.exe
+C:\Users\Cyrus\Desktop\IFilter\Source\Tester\bin\Debug\IFilterTester.pdb
+C:\Users\Cyrus\Desktop\IFilter\Source\Tester\bin\Debug\EPocalipse.IFilter.dll
+C:\Users\Cyrus\Desktop\IFilter\Source\Tester\bin\Debug\EPocalipse.IFilter.pdb
+C:\Users\Cyrus\Desktop\IFilter\Source\Tester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cyrus\Desktop\IFilter\Source\Tester\obj\Debug\IFilterTester.Form1.resources
+C:\Users\Cyrus\Desktop\IFilter\Source\Tester\obj\Debug\ResGen.read.1.tlog
+C:\Users\Cyrus\Desktop\IFilter\Source\Tester\obj\Debug\ResGen.write.1.tlog
+C:\Users\Cyrus\Desktop\IFilter\Source\Tester\obj\Debug\IFilterTester.exe
+C:\Users\Cyrus\Desktop\IFilter\Source\Tester\obj\Debug\IFilterTester.pdb
