@@ -11,8 +11,3 @@ This application was created using Visual Studio 2010, with .NET framework
     part of the code. 
 ============================================================================
 
-
-Test this document.
-
-Checking again.
-
