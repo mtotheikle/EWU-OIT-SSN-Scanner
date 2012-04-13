@@ -8,3 +8,8 @@ C:\Documents and Settings\Mat\Desktop\Office\OfficeParser\bin\Debug\OfficeParser
 C:\Documents and Settings\Mat\Desktop\Office\OfficeParser\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Mat\Desktop\Office\OfficeParser\obj\Debug\OfficeParser.dll
 C:\Documents and Settings\Mat\Desktop\Office\OfficeParser\obj\Debug\OfficeParser.pdb
+C:\Users\tara\Desktop\CSCD488P\EWU-OIT-SSN-Scanner\Code\Components\OfficeParser\OfficeParser\bin\Debug\OfficeParser.dll
+C:\Users\tara\Desktop\CSCD488P\EWU-OIT-SSN-Scanner\Code\Components\OfficeParser\OfficeParser\bin\Debug\OfficeParser.pdb
+C:\Users\tara\Desktop\CSCD488P\EWU-OIT-SSN-Scanner\Code\Components\OfficeParser\OfficeParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tara\Desktop\CSCD488P\EWU-OIT-SSN-Scanner\Code\Components\OfficeParser\OfficeParser\obj\Debug\OfficeParser.dll
+C:\Users\tara\Desktop\CSCD488P\EWU-OIT-SSN-Scanner\Code\Components\OfficeParser\OfficeParser\obj\Debug\OfficeParser.pdb
