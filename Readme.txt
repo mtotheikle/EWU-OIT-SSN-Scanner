@@ -10,6 +10,6 @@ This application was created using Visual Studio 2010, with .NET framework
     assembly, but SQLite.Interop.dll and Scanner(DLL) is required to be 
     part of the code. 
 ============================================================================
-Every day.
+This is Chris testing ...
 
 
