@@ -1,5 +1,0 @@
-C:\Users\Cyrus\Desktop\IFilter\Source\EPocalipse.IFilter\bin\Debug\EPocalipse.IFilter.dll
-C:\Users\Cyrus\Desktop\IFilter\Source\EPocalipse.IFilter\bin\Debug\EPocalipse.IFilter.pdb
-C:\Users\Cyrus\Desktop\IFilter\Source\EPocalipse.IFilter\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Cyrus\Desktop\IFilter\Source\EPocalipse.IFilter\obj\Debug\EPocalipse.IFilter.dll
-C:\Users\Cyrus\Desktop\IFilter\Source\EPocalipse.IFilter\obj\Debug\EPocalipse.IFilter.pdb
