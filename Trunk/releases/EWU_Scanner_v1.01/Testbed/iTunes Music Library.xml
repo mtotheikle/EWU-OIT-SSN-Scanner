@@ -1,0 +1,4313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2011-11-17T14:26:06Z</date>
+	<key>Application Version</key><string>10.5.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/Cyrus/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>1B787DEE02A4DAD9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>503</key>
+		<dict>
+			<key>Track ID</key><integer>503</integer>
+			<key>Name</key><string>autism.rm</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>146410417</integer>
+			<key>Total Time</key><integer>768835</integer>
+			<key>Date Modified</key><date>2010-08-06T17:54:43Z</date>
+			<key>Date Added</key><date>2010-08-06T18:23:28Z</date>
+			<key>Bit Rate</key><integer>124</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A4D9F3DCBBFEFAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>480</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Videos/RealPlayer%20Downloads/autism.rm.m4v</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>511</key>
+		<dict>
+			<key>Track ID</key><integer>511</integer>
+			<key>Name</key><string>Every Rose Has Its Thorn</string>
+			<key>Artist</key><string>Bret Michaels (Poison)</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Bobby Dall/Bret Michaels/C.C. DeVille/Rikki Rockett</string>
+			<key>Album</key><string>Super Hits Of The '80s</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5756316</integer>
+			<key>Total Time</key><integer>289097</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>42</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:14Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:06Z</date>
+			<key>Bit Rate</key><integer>157</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 211133200</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3389692880</integer>
+			<key>Play Date UTC</key><date>2011-05-31T21:21:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>54040E10B5F441F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/(Disc%202)%2017%20-%20Every%20Rose%20Has%20Its%20Thorn.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>513</key>
+		<dict>
+			<key>Track ID</key><integer>513</integer>
+			<key>Name</key><string>Bust a Move</string>
+			<key>Artist</key><string>Young MC</string>
+			<key>Album Artist</key><string>Young MC</string>
+			<key>Composer</key><string>Marvin Bruce Young/Marvin Young/Matt Dike/Matt William Dike/Michael Lawrence Ross/Michael Ross/Young MC</string>
+			<key>Album</key><string>Bust a Move</string>
+			<key>Genre</key><string>Rap &#38; Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5983134</integer>
+			<key>Total Time</key><integer>262452</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:16Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>176</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 215964121</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3390997101</integer>
+			<key>Play Date UTC</key><date>2011-06-15T23:38:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9F36FBEC7DE7CB04</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/01%20-%20Bust%20a%20Move.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>515</key>
+		<dict>
+			<key>Track ID</key><integer>515</integer>
+			<key>Name</key><string>Like A Prayer (Album Version)</string>
+			<key>Artist</key><string>Madonna</string>
+			<key>Album Artist</key><string>Madonna</string>
+			<key>Composer</key><string>Madonna</string>
+			<key>Album</key><string>Like A Prayer</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11265972</integer>
+			<key>Total Time</key><integer>340950</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:19Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203549681</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3389692352</integer>
+			<key>Play Date UTC</key><date>2011-05-31T21:12:32Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>60E17C7EA3BADC8B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/01%20-%20Like%20A%20Prayer%20(Album%20Version).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>517</key>
+		<dict>
+			<key>Track ID</key><integer>517</integer>
+			<key>Name</key><string>Love Shack (Album Version)</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album Artist</key><string>The B-52's</string>
+			<key>Composer</key><string>B52's</string>
+			<key>Album</key><string>Rhino Hi-Five: The B-52's</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10542269</integer>
+			<key>Total Time</key><integer>321018</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:22Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203439668</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>B-52's</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Persistent ID</key><string>9E42103514F9E7F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/01%20-%20Love%20Shack%20(Album%20Version).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>519</key>
+		<dict>
+			<key>Track ID</key><integer>519</integer>
+			<key>Name</key><string>Poison  </string>
+			<key>Artist</key><string>Alice Cooper</string>
+			<key>Album Artist</key><string>Alice Cooper</string>
+			<key>Composer</key><string>D. Child</string>
+			<key>Album</key><string>Trash</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8564655</integer>
+			<key>Total Time</key><integer>271673</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:24Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203910583</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0067521E34C7F8C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/01%20-%20Poison.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>521</key>
+		<dict>
+			<key>Track ID</key><integer>521</integer>
+			<key>Name</key><string>Pump Up The Jam</string>
+			<key>Artist</key><string>Technotronic</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>De Quincey, T./K. Kamosi/Manuela Kamosi/Thomas de Quincy</string>
+			<key>Album</key><string>Ultimate Club Dance 90s</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7288017</integer>
+			<key>Total Time</key><integer>217182</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:26Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 219456270</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3389691630</integer>
+			<key>Play Date UTC</key><date>2011-05-31T21:00:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9814320CF976BD72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/01%20-%20Pump%20Up%20The%20Jam.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>523</key>
+		<dict>
+			<key>Track ID</key><integer>523</integer>
+			<key>Name</key><string>She Drives Me Crazy</string>
+			<key>Artist</key><string>Fine Young Cannibals</string>
+			<key>Album Artist</key><string>Fine Young Cannibals</string>
+			<key>Composer</key><string>Steele</string>
+			<key>Album</key><string>The Raw And The Cooked</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7137339</integer>
+			<key>Total Time</key><integer>215666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:27Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 210451534</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3394214025</integer>
+			<key>Play Date UTC</key><date>2011-07-23T05:13:45Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Raw And The Cooked</string>
+			<key>Persistent ID</key><string>F6147BCF63306278</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/01%20-%20She%20Drives%20Me%20Crazy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>525</key>
+		<dict>
+			<key>Track ID</key><integer>525</integer>
+			<key>Name</key><string>The Look</string>
+			<key>Artist</key><string>Roxette</string>
+			<key>Album Artist</key><string>Roxette</string>
+			<key>Composer</key><string>Per Gessle</string>
+			<key>Album</key><string>Look Sharp! (2009 Version)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8667991</integer>
+			<key>Total Time</key><integer>237374</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:29Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>281</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 212839580</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3394205774</integer>
+			<key>Play Date UTC</key><date>2011-07-23T02:56:14Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Look</string>
+			<key>Persistent ID</key><string>E9E90EE1005043F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/01%20-%20The%20Look.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>527</key>
+		<dict>
+			<key>Track ID</key><integer>527</integer>
+			<key>Name</key><string>Welcome To The Jungle</string>
+			<key>Artist</key><string>Guns N' Roses</string>
+			<key>Album Artist</key><string>Guns N' Roses</string>
+			<key>Composer</key><string>W. Axl Rose</string>
+			<key>Album</key><string>Greatest Hits [Explicit]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8839840</integer>
+			<key>Total Time</key><integer>271934</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:31Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 202959919</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3394214504</integer>
+			<key>Play Date UTC</key><date>2011-07-23T05:21:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AAE00B9B198B17FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/01%20-%20Welcome%20To%20The%20Jungle.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>529</key>
+		<dict>
+			<key>Track ID</key><integer>529</integer>
+			<key>Name</key><string>What Is Love (Single Mix)</string>
+			<key>Artist</key><string>Haddaway</string>
+			<key>Album Artist</key><string>Haddaway</string>
+			<key>Composer</key><string>Junior Torello</string>
+			<key>Album</key><string>What Is Love (Single)</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8340937</integer>
+			<key>Total Time</key><integer>271151</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:34Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 214116299</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3394214916</integer>
+			<key>Play Date UTC</key><date>2011-07-23T05:28:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D136A3E957DB1E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/01%20-%20What%20Is%20Love%20(Single%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>531</key>
+		<dict>
+			<key>Track ID</key><integer>531</integer>
+			<key>Name</key><string>Express Yourself (Album Version)</string>
+			<key>Artist</key><string>Madonna</string>
+			<key>Album Artist</key><string>Madonna</string>
+			<key>Album</key><string>Like A Prayer</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9015396</integer>
+			<key>Total Time</key><integer>279222</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:36Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203549682</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3394205542</integer>
+			<key>Play Date UTC</key><date>2011-07-23T02:52:22Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>688D1CE5546BA897</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/02%20-%20Express%20Yourself%20(Album%20Version).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>533</key>
+		<dict>
+			<key>Track ID</key><integer>533</integer>
+			<key>Name</key><string>Wild Thing</string>
+			<key>Artist</key><string>Tone-Loc</string>
+			<key>Album Artist</key><string>Tone-Loc</string>
+			<key>Album</key><string>Loc-ed After Dark</string>
+			<key>Genre</key><string>Rap &#38; Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7636274</integer>
+			<key>Total Time</key><integer>265613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:38Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>228</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 204661907</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4FE4B0B7BC924A5B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/02%20-%20Wild%20Thing.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>535</key>
+		<dict>
+			<key>Track ID</key><integer>535</integer>
+			<key>Name</key><string>Heaven</string>
+			<key>Artist</key><string>Warrant</string>
+			<key>Album Artist</key><string>Warrant</string>
+			<key>Composer</key><string>Elgin Turner</string>
+			<key>Album</key><string>The Best Of Warrant</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7296686</integer>
+			<key>Total Time</key><integer>237975</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:40Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203899900</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best Of Warrant</string>
+			<key>Persistent ID</key><string>53A5DBE5668C3E4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/03%20-%20Heaven.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>537</key>
+		<dict>
+			<key>Track ID</key><integer>537</integer>
+			<key>Name</key><string>My Prerogative</string>
+			<key>Artist</key><string>Bobby Brown</string>
+			<key>Album Artist</key><string>Bobby Brown</string>
+			<key>Composer</key><string>Gene Griffin</string>
+			<key>Album</key><string>The Best Of Bobby Brown 20th Century Masters The Millennium Collection</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9064039</integer>
+			<key>Total Time</key><integer>277838</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:42Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 202665049</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best Of Bobby Brown 20th Century Masters The Millennium Collection</string>
+			<key>Persistent ID</key><string>3C94760E5DF4E35F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/03%20-%20My%20Prerogative.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>539</key>
+		<dict>
+			<key>Track ID</key><integer>539</integer>
+			<key>Name</key><string>On Our Own</string>
+			<key>Artist</key><string>Bobby Brown</string>
+			<key>Album Artist</key><string>Bobby Brown</string>
+			<key>Composer</key><string>Kenneth "Babyface" Edmonds</string>
+			<key>Album</key><string>The Best Of Bobby Brown 20th Century Masters The Millennium Collection</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8863428</integer>
+			<key>Total Time</key><integer>271568</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:45Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 202665052</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best Of Bobby Brown 20th Century Masters The Millennium Collection</string>
+			<key>Persistent ID</key><string>D718099CD7D3A9D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/06%20-%20On%20Our%20Own.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>541</key>
+		<dict>
+			<key>Track ID</key><integer>541</integer>
+			<key>Name</key><string>Don't Rush Me</string>
+			<key>Artist</key><string>Taylor Dayne</string>
+			<key>Album Artist</key><string>Taylor Dayne</string>
+			<key>Composer</key><string>Alexandra Forbes</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7216971</integer>
+			<key>Total Time</key><integer>228728</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:47Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 210449251</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F310F889B989A412</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/07%20-%20Don't%20Rush%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>543</key>
+		<dict>
+			<key>Track ID</key><integer>543</integer>
+			<key>Name</key><string>Smooth Criminal (Radio Edit)</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album Artist</key><string>Michael Jackson</string>
+			<key>Composer</key><string>Michael J. Jackson</string>
+			<key>Album</key><string>Bad</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8063197</integer>
+			<key>Total Time</key><integer>256574</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:49Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>250</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203883724</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3394205058</integer>
+			<key>Play Date UTC</key><date>2011-07-23T02:44:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4C8D863F456B306E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/10%20-%20Smooth%20Criminal%20(Radio%20Edit).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>545</key>
+		<dict>
+			<key>Track ID</key><integer>545</integer>
+			<key>Name</key><string>Listen To Your Heart</string>
+			<key>Artist</key><string>Roxette</string>
+			<key>Album Artist</key><string>Roxette</string>
+			<key>Composer</key><string>Mats Persson/Per Gessle</string>
+			<key>Album</key><string>Look Sharp! (2009 Version)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11337778</integer>
+			<key>Total Time</key><integer>328150</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:52Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 212839592</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3390997684</integer>
+			<key>Play Date UTC</key><date>2011-06-15T23:48:04Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1C00F23B09780AE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/13%20-%20Listen%20To%20Your%20Heart.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>547</key>
+		<dict>
+			<key>Track ID</key><integer>547</integer>
+			<key>Name</key><string>Stand</string>
+			<key>Artist</key><string>R.E.M.</string>
+			<key>Album Artist</key><string>R.E.M.</string>
+			<key>Composer</key><string>M.E. Mills</string>
+			<key>Album</key><string>In Time: The Best Of R.E.M., 1988-2003</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6422912</integer>
+			<key>Total Time</key><integer>191059</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2011-05-02T23:25:53Z</date>
+			<key>Date Added</key><date>2011-05-05T06:28:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203438101</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CB59D2BD0B6A3131</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Amazon%20MP3/13%20-%20Stand.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>549</key>
+		<dict>
+			<key>Track ID</key><integer>549</integer>
+			<key>Name</key><string>Earth</string>
+			<key>Artist</key><string>Jesper Kyd</string>
+			<key>Composer</key><string>Jesper Kyd</string>
+			<key>Album</key><string>Assassin's Creed 2</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9742849</integer>
+			<key>Total Time</key><integer>238497</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-01-24T05:35:11Z</date>
+			<key>Date Added</key><date>2011-05-05T06:29:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>73D8697043A18E90</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Assassin's%20Creed%20II%20Original%20Game%20Soundtrack%20%5BOfficial%5D%5B2009%5D%5B320kbps%5D/Disc%201/01%20-%20Jesper%20Kyd%20-%20Earth.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>551</key>
+		<dict>
+			<key>Track ID</key><integer>551</integer>
+			<key>Name</key><string>Venice Rooftops</string>
+			<key>Artist</key><string>Jesper Kyd</string>
+			<key>Composer</key><string>Jesper Kyd</string>
+			<key>Album</key><string>Assassin's Creed 2</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8115943</integer>
+			<key>Total Time</key><integer>197825</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-01-24T05:50:35Z</date>
+			<key>Date Added</key><date>2011-05-05T06:29:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3387426611</integer>
+			<key>Play Date UTC</key><date>2011-05-05T15:50:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E781991FCCCD9746</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Assassin's%20Creed%20II%20Original%20Game%20Soundtrack%20%5BOfficial%5D%5B2009%5D%5B320kbps%5D/Disc%201/02%20-%20Jesper%20Kyd%20-%20Venice%20Rooftops.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>553</key>
+		<dict>
+			<key>Track ID</key><integer>553</integer>
+			<key>Name</key><string>Flight Over Venice 1</string>
+			<key>Artist</key><string>Jesper Kyd</string>
+			<key>Composer</key><string>Jesper Kyd</string>
+			<key>Album</key><string>Assassin's Creed 2</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12596465</integer>
+			<key>Total Time</key><integer>309838</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-01-24T06:00:35Z</date>
+			<key>Date Added</key><date>2011-05-05T06:30:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2EAC6324B05A586A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Assassin's%20Creed%20II%20Original%20Game%20Soundtrack%20%5BOfficial%5D%5B2009%5D%5B320kbps%5D/Disc%201/11%20-%20Jesper%20Kyd%20-%20Flight%20Over%20Venice%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>555</key>
+		<dict>
+			<key>Track ID</key><integer>555</integer>
+			<key>Name</key><string>Back In Venice</string>
+			<key>Artist</key><string>Jesper Kyd</string>
+			<key>Composer</key><string>Jesper Kyd</string>
+			<key>Album</key><string>Assassin's Creed 2</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3917543</integer>
+			<key>Total Time</key><integer>92865</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-01-24T06:00:35Z</date>
+			<key>Date Added</key><date>2011-05-05T06:30:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>95A1ECE3E017D023</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Assassin's%20Creed%20II%20Original%20Game%20Soundtrack%20%5BOfficial%5D%5B2009%5D%5B320kbps%5D/Disc%201/12%20-%20Jesper%20Kyd%20-%20Back%20In%20Venice.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>557</key>
+		<dict>
+			<key>Track ID</key><integer>557</integer>
+			<key>Name</key><string>Home Of The Brotherhood</string>
+			<key>Artist</key><string>Jesper Kyd</string>
+			<key>Composer</key><string>Jesper Kyd</string>
+			<key>Album</key><string>Assassin's Creed 2</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8450310</integer>
+			<key>Total Time</key><integer>206184</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-01-24T05:58:32Z</date>
+			<key>Date Added</key><date>2011-05-05T06:30:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A81C92B3142FAC8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Assassin's%20Creed%20II%20Original%20Game%20Soundtrack%20%5BOfficial%5D%5B2009%5D%5B320kbps%5D/Disc%201/14%20-%20Jesper%20Kyd%20-%20Home%20of%20the%20Brotherhood.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>559</key>
+		<dict>
+			<key>Track ID</key><integer>559</integer>
+			<key>Name</key><string>Sanctuary</string>
+			<key>Artist</key><string>Jesper Kyd</string>
+			<key>Composer</key><string>Jesper Kyd</string>
+			<key>Album</key><string>Assassin's Creed 2</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10029151</integer>
+			<key>Total Time</key><integer>245655</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-01-24T05:59:57Z</date>
+			<key>Date Added</key><date>2011-05-05T06:31:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>771A1433B87D1BFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Assassin's%20Creed%20II%20Original%20Game%20Soundtrack%20%5BOfficial%5D%5B2009%5D%5B320kbps%5D/Disc%202/02%20-%20Jesper%20Kyd%20-%20Sanctuary.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>561</key>
+		<dict>
+			<key>Track ID</key><integer>561</integer>
+			<key>Name</key><string>Chariot Chase</string>
+			<key>Artist</key><string>Jesper Kyd</string>
+			<key>Composer</key><string>Jesper Kyd</string>
+			<key>Album</key><string>Assassin's Creed 2</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8223567</integer>
+			<key>Total Time</key><integer>200515</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-01-24T05:53:13Z</date>
+			<key>Date Added</key><date>2011-05-05T06:31:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3389366919</integer>
+			<key>Play Date UTC</key><date>2011-05-28T02:48:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D231415F16F998F4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Assassin's%20Creed%20II%20Original%20Game%20Soundtrack%20%5BOfficial%5D%5B2009%5D%5B320kbps%5D/Disc%202/12%20-%20Jesper%20Kyd%20-%20Chariot%20Chase.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>563</key>
+		<dict>
+			<key>Track ID</key><integer>563</integer>
+			<key>Name</key><string>The Illusive Man</string>
+			<key>Artist</key><string>Jack Wall</string>
+			<key>Album Artist</key><string>EA Games Soundtrack</string>
+			<key>Album</key><string>Mass Effect 2 [Explicit]</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4582585</integer>
+			<key>Total Time</key><integer>143804</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2010-02-06T02:58:42Z</date>
+			<key>Date Added</key><date>2011-05-05T06:32:57Z</date>
+			<key>Bit Rate</key><integer>250</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 214214412</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Illusive Man</string>
+			<key>Persistent ID</key><string>8BD68EB608D75D3A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Mass%20Effect%202%20OST/Disc%201/01%20-%20The%20Illusive%20Man.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>565</key>
+		<dict>
+			<key>Track ID</key><integer>565</integer>
+			<key>Name</key><string>The Attack</string>
+			<key>Artist</key><string>Jack Wall</string>
+			<key>Album Artist</key><string>EA Games Soundtrack</string>
+			<key>Album</key><string>Mass Effect 2 [Explicit]</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9561117</integer>
+			<key>Total Time</key><integer>313756</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2010-02-06T02:59:05Z</date>
+			<key>Date Added</key><date>2011-05-05T06:33:10Z</date>
+			<key>Bit Rate</key><integer>241</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 214214414</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Attack</string>
+			<key>Persistent ID</key><string>EA03E81989238C50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Mass%20Effect%202%20OST/Disc%201/03%20-%20The%20Attack.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>567</key>
+		<dict>
+			<key>Track ID</key><integer>567</integer>
+			<key>Name</key><string>The Normandy Reborn</string>
+			<key>Artist</key><string>Jack Wall</string>
+			<key>Album Artist</key><string>EA Games Soundtrack</string>
+			<key>Album</key><string>Mass Effect 2 [Explicit]</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3771819</integer>
+			<key>Total Time</key><integer>126589</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2010-02-06T02:58:59Z</date>
+			<key>Date Added</key><date>2011-05-05T06:33:27Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 214214417</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Normandy Reborn</string>
+			<key>Persistent ID</key><string>7209E6CEB86E73E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Mass%20Effect%202%20OST/Disc%201/06%20-%20The%20Normandy%20Reborn.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>569</key>
+		<dict>
+			<key>Track ID</key><integer>569</integer>
+			<key>Name</key><string>Samara</string>
+			<key>Artist</key><string>Jack Wall</string>
+			<key>Album Artist</key><string>EA Games Soundtrack</string>
+			<key>Album</key><string>Mass Effect 2 [Explicit]</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17814127</integer>
+			<key>Total Time</key><integer>533263</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2010-02-06T02:59:22Z</date>
+			<key>Date Added</key><date>2011-05-05T06:34:04Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 214214424</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9355703255E49395</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Mass%20Effect%202%20OST/Disc%201/13%20-%20Samara.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>571</key>
+		<dict>
+			<key>Track ID</key><integer>571</integer>
+			<key>Name</key><string>Grunt</string>
+			<key>Artist</key><string>Jack Wall</string>
+			<key>Album Artist</key><string>EA Games Soundtrack</string>
+			<key>Album</key><string>Mass Effect 2 [Explicit]</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11307368</integer>
+			<key>Total Time</key><integer>326034</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2010-02-06T02:58:57Z</date>
+			<key>Date Added</key><date>2011-05-05T06:34:13Z</date>
+			<key>Bit Rate</key><integer>275</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 214214425</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6ECEF680211A1374</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Mass%20Effect%202%20OST/Disc%202/(Disc%202)%2001%20-%20Grunt.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>573</key>
+		<dict>
+			<key>Track ID</key><integer>573</integer>
+			<key>Name</key><string>Tali</string>
+			<key>Artist</key><string>Jack Wall</string>
+			<key>Album Artist</key><string>EA Games Soundtrack</string>
+			<key>Album</key><string>Mass Effect 2 [Explicit]</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11926888</integer>
+			<key>Total Time</key><integer>358008</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2010-02-06T02:59:15Z</date>
+			<key>Date Added</key><date>2011-05-05T06:34:24Z</date>
+			<key>Bit Rate</key><integer>264</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 214214427</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DC03A599085FD1BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Mass%20Effect%202%20OST/Disc%202/(Disc%202)%2003%20-%20Tali.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>575</key>
+		<dict>
+			<key>Track ID</key><integer>575</integer>
+			<key>Name</key><string>The Normandy Attacked</string>
+			<key>Artist</key><string>Jack Wall</string>
+			<key>Album Artist</key><string>EA Games Soundtrack</string>
+			<key>Album</key><string>Mass Effect 2 [Explicit]</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4164295</integer>
+			<key>Total Time</key><integer>131892</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2010-02-06T02:58:40Z</date>
+			<key>Date Added</key><date>2011-05-05T06:34:37Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 214214429</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Normandy Attacked</string>
+			<key>Persistent ID</key><string>DFCBC1F484034666</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Mass%20Effect%202%20OST/Disc%202/(Disc%202)%2005%20-%20The%20Normandy%20Attacked.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>577</key>
+		<dict>
+			<key>Track ID</key><integer>577</integer>
+			<key>Name</key><string>The End Run</string>
+			<key>Artist</key><string>Jack Wall</string>
+			<key>Album Artist</key><string>EA Games Soundtrack</string>
+			<key>Album</key><string>Mass Effect 2 [Explicit]</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5527797</integer>
+			<key>Total Time</key><integer>177554</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2010-02-06T02:59:27Z</date>
+			<key>Date Added</key><date>2011-05-05T06:35:16Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 214214435</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3387724939</integer>
+			<key>Play Date UTC</key><date>2011-05-09T02:42:19Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>End Run</string>
+			<key>Persistent ID</key><string>80B5BD87AD8D7615</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Mass%20Effect%202%20OST/Disc%202/(Disc%202)%2011%20-%20The%20End%20Run.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>579</key>
+		<dict>
+			<key>Track ID</key><integer>579</integer>
+			<key>Name</key><string>New Worlds</string>
+			<key>Artist</key><string>Jack Wall</string>
+			<key>Album Artist</key><string>EA Games Soundtrack</string>
+			<key>Album</key><string>Mass Effect 2 [Explicit]</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4531173</integer>
+			<key>Total Time</key><integer>150047</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2010-02-06T02:58:16Z</date>
+			<key>Date Added</key><date>2011-05-05T06:35:30Z</date>
+			<key>Bit Rate</key><integer>237</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 214214437</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BDA25907C5FAEBC9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Mass%20Effect%202%20OST/Disc%202/(Disc%202)%2013%20-%20New%20Worlds.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>581</key>
+		<dict>
+			<key>Track ID</key><integer>581</integer>
+			<key>Name</key><string>Still Alive</string>
+			<key>Artist</key><string>Jonathan Coulton &#38; GLaDOS</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Orange Box (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5231129</integer>
+			<key>Total Time</key><integer>176483</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-11-22T07:17:44Z</date>
+			<key>Date Added</key><date>2011-05-05T06:36:27Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203370502</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-05T00:09:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Orange Box (Original Soundtrack)</string>
+			<key>Persistent ID</key><string>BADC7B6615416D95</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/The%20Orange%20Box%20(Original%20Soundtrack)/01%20Still%20Alive.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>583</key>
+		<dict>
+			<key>Track ID</key><integer>583</integer>
+			<key>Name</key><string>Team Fortress 2</string>
+			<key>Artist</key><string>Valve</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Orange Box (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2319410</integer>
+			<key>Total Time</key><integer>71601</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-11-22T07:41:43Z</date>
+			<key>Date Added</key><date>2011-05-05T06:36:34Z</date>
+			<key>Bit Rate</key><integer>253</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203370503</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Orange Box (Original Soundtrack)</string>
+			<key>Persistent ID</key><string>6EB323CE9CB732A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/The%20Orange%20Box%20(Original%20Soundtrack)/02%20Team%20Fortress%202.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>585</key>
+		<dict>
+			<key>Track ID</key><integer>585</integer>
+			<key>Name</key><string>Disrupted Original</string>
+			<key>Artist</key><string>Valve</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Orange Box (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2365793</integer>
+			<key>Total Time</key><integer>78106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-11-22T07:40:29Z</date>
+			<key>Date Added</key><date>2011-05-05T06:36:43Z</date>
+			<key>Bit Rate</key><integer>236</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203370506</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3387723489</integer>
+			<key>Play Date UTC</key><date>2011-05-09T02:18:09Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Orange Box (Original Soundtrack)</string>
+			<key>Persistent ID</key><string>1537E4B14201473C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/The%20Orange%20Box%20(Original%20Soundtrack)/05%20Disrupted%20Original.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>587</key>
+		<dict>
+			<key>Track ID</key><integer>587</integer>
+			<key>Name</key><string>Abandoned In Place</string>
+			<key>Artist</key><string>Valve</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Orange Box (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5419765</integer>
+			<key>Total Time</key><integer>167366</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-11-22T07:41:44Z</date>
+			<key>Date Added</key><date>2011-05-05T06:36:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203370507</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3387723656</integer>
+			<key>Play Date UTC</key><date>2011-05-09T02:20:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Orange Box (Original Soundtrack)</string>
+			<key>Persistent ID</key><string>2B68B02556C90BDB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/The%20Orange%20Box%20(Original%20Soundtrack)/06%20Abandoned%20In%20Place.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>589</key>
+		<dict>
+			<key>Track ID</key><integer>589</integer>
+			<key>Name</key><string>Last Legs</string>
+			<key>Artist</key><string>Valve</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Orange Box (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4717702</integer>
+			<key>Total Time</key><integer>127895</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-11-22T07:41:20Z</date>
+			<key>Date Added</key><date>2011-05-05T06:36:58Z</date>
+			<key>Bit Rate</key><integer>291</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203370509</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3387723784</integer>
+			<key>Play Date UTC</key><date>2011-05-09T02:23:04Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Orange Box (Original Soundtrack)</string>
+			<key>Persistent ID</key><string>236D0CF97A4B7EE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/The%20Orange%20Box%20(Original%20Soundtrack)/08%20Last%20Legs.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>591</key>
+		<dict>
+			<key>Track ID</key><integer>591</integer>
+			<key>Name</key><string>Guard Down</string>
+			<key>Artist</key><string>Valve</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Orange Box (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3219975</integer>
+			<key>Total Time</key><integer>99526</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-11-22T07:40:03Z</date>
+			<key>Date Added</key><date>2011-05-05T06:37:06Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203370510</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3389366719</integer>
+			<key>Play Date UTC</key><date>2011-05-28T02:45:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Orange Box (Original Soundtrack)</string>
+			<key>Persistent ID</key><string>7CBB9CF3FE207DCD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/The%20Orange%20Box%20(Original%20Soundtrack)/09%20Guard%20Down.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>593</key>
+		<dict>
+			<key>Track ID</key><integer>593</integer>
+			<key>Name</key><string>Sector Sweep</string>
+			<key>Artist</key><string>Valve</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Orange Box (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5376712</integer>
+			<key>Total Time</key><integer>166530</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-11-22T07:41:55Z</date>
+			<key>Date Added</key><date>2011-05-05T06:37:13Z</date>
+			<key>Bit Rate</key><integer>255</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203370511</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3387724050</integer>
+			<key>Play Date UTC</key><date>2011-05-09T02:27:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Orange Box (Original Soundtrack)</string>
+			<key>Persistent ID</key><string>404D6090D6B0D511</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/The%20Orange%20Box%20(Original%20Soundtrack)/10%20Sector%20Sweep.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>595</key>
+		<dict>
+			<key>Track ID</key><integer>595</integer>
+			<key>Name</key><string>Vortal Combat</string>
+			<key>Artist</key><string>Valve</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Orange Box (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4662131</integer>
+			<key>Total Time</key><integer>194795</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-11-22T07:42:02Z</date>
+			<key>Date Added</key><date>2011-05-05T06:37:28Z</date>
+			<key>Bit Rate</key><integer>189</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203370513</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3387724244</integer>
+			<key>Play Date UTC</key><date>2011-05-09T02:30:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Orange Box (Original Soundtrack)</string>
+			<key>Persistent ID</key><string>B64462EE295E058B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/The%20Orange%20Box%20(Original%20Soundtrack)/12%20Vortal%20Combat.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>597</key>
+		<dict>
+			<key>Track ID</key><integer>597</integer>
+			<key>Name</key><string>4000 Degrees Kelvin</string>
+			<key>Artist</key><string>Valve</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Orange Box (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2023912</integer>
+			<key>Total Time</key><integer>61544</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-11-22T07:41:12Z</date>
+			<key>Date Added</key><date>2011-05-05T06:37:43Z</date>
+			<key>Bit Rate</key><integer>255</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203370516</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3387724306</integer>
+			<key>Play Date UTC</key><date>2011-05-09T02:31:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Orange Box (Original Soundtrack)</string>
+			<key>Persistent ID</key><string>EB84529AABB3A270</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/The%20Orange%20Box%20(Original%20Soundtrack)/15%204000%20Degrees%20Kelvin.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>599</key>
+		<dict>
+			<key>Track ID</key><integer>599</integer>
+			<key>Name</key><string>You Can't Escape, You Know</string>
+			<key>Artist</key><string>Valve</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Orange Box (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10950097</integer>
+			<key>Total Time</key><integer>374804</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-11-22T07:41:47Z</date>
+			<key>Date Added</key><date>2011-05-05T06:38:00Z</date>
+			<key>Bit Rate</key><integer>232</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203370519</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3389366619</integer>
+			<key>Play Date UTC</key><date>2011-05-28T02:43:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Orange Box (Original Soundtrack)</string>
+			<key>Persistent ID</key><string>DBB5EA7004C0686C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/The%20Orange%20Box%20(Original%20Soundtrack)/18%20You%20Can't%20Escape,%20You%20Know.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>601</key>
+		<dict>
+			<key>Track ID</key><integer>601</integer>
+			<key>Name</key><string>Not Afraid (Prod. by Boi-1da)</string>
+			<key>Artist</key><string>Eminem</string>
+			<key>Album Artist</key><string>Eminem</string>
+			<key>Album</key><string>Recovery</string>
+			<key>Genre</key><string>Rap/Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9961216</integer>
+			<key>Total Time</key><integer>248208</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-05-05T06:39:57Z</date>
+			<key>Date Added</key><date>2011-05-05T06:40:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>[NoFS]</string>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>410F3D31A50474C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Eminem%20-%20Recovery%5B2010%5D-LW-%7BOFFICIAL%7D/07-Eminem-Not%20Afraid%20(Prod.%20by%20Boi-1da).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>603</key>
+		<dict>
+			<key>Track ID</key><integer>603</integer>
+			<key>Name</key><string>No Love (Prod. By Just Blaze)</string>
+			<key>Artist</key><string>Eminem/Eminem Ft. Lil Wayne</string>
+			<key>Album Artist</key><string>Eminem</string>
+			<key>Album</key><string>Recovery</string>
+			<key>Genre</key><string>Rap/Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12015616</integer>
+			<key>Total Time</key><integer>299568</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-05-05T06:39:57Z</date>
+			<key>Date Added</key><date>2011-05-05T06:40:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>[NoFS]</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3389368652</integer>
+			<key>Play Date UTC</key><date>2011-05-28T03:17:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>359FE5CAAB2D63D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Eminem%20-%20Recovery%5B2010%5D-LW-%7BOFFICIAL%7D/09-Eminem%20Ft.%20Lil%20Wayne-No%20Love%20(Prod.%20By%20Just%20Blaze).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>605</key>
+		<dict>
+			<key>Track ID</key><integer>605</integer>
+			<key>Name</key><string>Cinderella Man</string>
+			<key>Artist</key><string>Eminem</string>
+			<key>Album Artist</key><string>Eminem</string>
+			<key>Album</key><string>Recovery</string>
+			<key>Genre</key><string>Rap/Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11196736</integer>
+			<key>Total Time</key><integer>279096</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-05-05T06:39:57Z</date>
+			<key>Date Added</key><date>2011-05-05T06:41:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>[NoFS]</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3389368931</integer>
+			<key>Play Date UTC</key><date>2011-05-28T03:22:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D44B1BB680FEF70C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Eminem%20-%20Recovery%5B2010%5D-LW-%7BOFFICIAL%7D/11-Eminem-Cinderella%20Man.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>607</key>
+		<dict>
+			<key>Track ID</key><integer>607</integer>
+			<key>Name</key><string>Love The Way You Lie (Prod. By Alex Da Kid)</string>
+			<key>Artist</key><string>Eminem/Eminem Ft. Rihanna</string>
+			<key>Album Artist</key><string>Eminem</string>
+			<key>Album</key><string>Recovery</string>
+			<key>Genre</key><string>Rap/Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10570816</integer>
+			<key>Total Time</key><integer>263448</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-05-05T06:39:57Z</date>
+			<key>Date Added</key><date>2011-05-05T06:41:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>[NoFS]</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3390927072</integer>
+			<key>Play Date UTC</key><date>2011-06-15T04:11:12Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EACE8F61CB9E798D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Music/Eminem%20-%20Recovery%5B2010%5D-LW-%7BOFFICIAL%7D/15-Eminem%20Ft.%20Rihanna-Love%20The%20Way%20You%20Lie%20(Prod.%20By%20Alex%20Da%20Kid).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>611</key>
+		<dict>
+			<key>Track ID</key><integer>611</integer>
+			<key>Name</key><string>Tron (VIP Mix)</string>
+			<key>Artist</key><string>Joker</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10108300</integer>
+			<key>Total Time</key><integer>252682</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:11Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3399286902</integer>
+			<key>Play Date UTC</key><date>2011-09-19T22:21:42Z</date>
+			<key>Persistent ID</key><string>6069DFD48CC05B6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/09%20Tron%20(VIP%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>613</key>
+		<dict>
+			<key>Track ID</key><integer>613</integer>
+			<key>Name</key><string>Innocence</string>
+			<key>Artist</key><string>Nero</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12673519</integer>
+			<key>Total Time</key><integer>316813</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:40Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6EBE66A44FF974F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/10%20Innocence.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>615</key>
+		<dict>
+			<key>Track ID</key><integer>615</integer>
+			<key>Name</key><string>Gargoyle</string>
+			<key>Artist</key><string>Doctor P</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDa</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8379261</integer>
+			<key>Total Time</key><integer>209475</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:12:15Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4D68719DA822F49A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/11%20Gargoyle.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>617</key>
+		<dict>
+			<key>Track ID</key><integer>617</integer>
+			<key>Name</key><string>Typhoon (feat. Chasing Shadows)</string>
+			<key>Artist</key><string>Foreign Beggers</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12219060</integer>
+			<key>Total Time</key><integer>305449</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:52Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CDF958FEDE287123</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/12%20Typhoon%20(feat.%20Chasing%20Shadows).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>619</key>
+		<dict>
+			<key>Track ID</key><integer>619</integer>
+			<key>Name</key><string>Menace</string>
+			<key>Artist</key><string>Distance</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13653634</integer>
+			<key>Total Time</key><integer>341315</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:47Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>92329355CDB21ED0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/13%20Menace.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>621</key>
+		<dict>
+			<key>Track ID</key><integer>621</integer>
+			<key>Name</key><string>Red (Chasing Shadows Remix)</string>
+			<key>Artist</key><string>Laid Blak</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13783224</integer>
+			<key>Total Time</key><integer>344555</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:44Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4B53A37BAEE79D2C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/14%20Red%20(Chasing%20Shadows%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>623</key>
+		<dict>
+			<key>Track ID</key><integer>623</integer>
+			<key>Name</key><string>Molten</string>
+			<key>Artist</key><string>Digital Mystikz</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11898213</integer>
+			<key>Total Time</key><integer>297430</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:12:51Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>371F721809B6569F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/15%20Molten.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>625</key>
+		<dict>
+			<key>Track ID</key><integer>625</integer>
+			<key>Name</key><string>Critical Hit</string>
+			<key>Artist</key><string>Emalkay</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9985003</integer>
+			<key>Total Time</key><integer>249600</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:12:39Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3393665335</integer>
+			<key>Play Date UTC</key><date>2011-07-16T20:48:55Z</date>
+			<key>Persistent ID</key><string>E4B9A571A14FFB95</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/16%20Critical%20Hit.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>627</key>
+		<dict>
+			<key>Track ID</key><integer>627</integer>
+			<key>Name</key><string>Tell Me (Distance Remix) [feat. Alys Be]</string>
+			<key>Artist</key><string>Mr Lager</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11807382</integer>
+			<key>Total Time</key><integer>295157</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:07Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DAC5FCB4E465CBC0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/17%20Tell%20Me%20(Distance%20Remix)%20%5Bfeat.%20A.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>629</key>
+		<dict>
+			<key>Track ID</key><integer>629</integer>
+			<key>Name</key><string>Little Bits</string>
+			<key>Artist</key><string>Benga</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12274371</integer>
+			<key>Total Time</key><integer>306834</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:12:06Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3393674292</integer>
+			<key>Play Date UTC</key><date>2011-07-16T23:18:12Z</date>
+			<key>Persistent ID</key><string>B3B555859C28E5F4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/18%20Little%20Bits.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>631</key>
+		<dict>
+			<key>Track ID</key><integer>631</integer>
+			<key>Name</key><string>Hollow Sphere</string>
+			<key>Artist</key><string>Kromestar</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13293153</integer>
+			<key>Total Time</key><integer>332303</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:54Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>A3EB4DDC5D4B87DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/19%20Hollow%20Sphere.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>633</key>
+		<dict>
+			<key>Track ID</key><integer>633</integer>
+			<key>Name</key><string>Mattress Punch</string>
+			<key>Artist</key><string>Funtcase</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8507520</integer>
+			<key>Total Time</key><integer>212662</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:06Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3393675362</integer>
+			<key>Play Date UTC</key><date>2011-07-16T23:36:02Z</date>
+			<key>Persistent ID</key><string>318F369AF55718A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/20%20Mattress%20Punch.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>635</key>
+		<dict>
+			<key>Track ID</key><integer>635</integer>
+			<key>Name</key><string>Time Ends</string>
+			<key>Artist</key><string>Jakes</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12257651</integer>
+			<key>Total Time</key><integer>306416</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:29Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2CCE8D05BBD34626</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/21%20Time%20Ends.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>637</key>
+		<dict>
+			<key>Track ID</key><integer>637</integer>
+			<key>Name</key><string>Compass Biscuit</string>
+			<key>Artist</key><string>Matt-U</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11155290</integer>
+			<key>Total Time</key><integer>278857</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:13Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>86AD504F32FD42F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/22%20Compass%20Biscuit.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>639</key>
+		<dict>
+			<key>Track ID</key><integer>639</integer>
+			<key>Name</key><string>Beatwise</string>
+			<key>Artist</key><string>Cyrus</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13298368</integer>
+			<key>Total Time</key><integer>332434</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:50Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B57AFC8A7B1BB893</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/23%20Beatwise.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>641</key>
+		<dict>
+			<key>Track ID</key><integer>641</integer>
+			<key>Name</key><string>Magma</string>
+			<key>Artist</key><string>Plastician</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12325570</integer>
+			<key>Total Time</key><integer>308114</integer>
+			<key>Track Number</key><integer>24</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:36Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3393674600</integer>
+			<key>Play Date UTC</key><date>2011-07-16T23:23:20Z</date>
+			<key>Persistent ID</key><string>25E7359B68ED7D80</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/24%20Magma.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>643</key>
+		<dict>
+			<key>Track ID</key><integer>643</integer>
+			<key>Name</key><string>This Way</string>
+			<key>Artist</key><string>Nero</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15019314</integer>
+			<key>Total Time</key><integer>375457</integer>
+			<key>Track Number</key><integer>25</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:09Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D7D2C974DA99EEB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/25%20This%20Way.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>645</key>
+		<dict>
+			<key>Track ID</key><integer>645</integer>
+			<key>Name</key><string>Speechless (feat. Donae'o)</string>
+			<key>Artist</key><string>Breakage</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10507467</integer>
+			<key>Total Time</key><integer>262661</integer>
+			<key>Track Number</key><integer>26</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:53Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>74985CF437060346</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/26%20Speechless%20(feat.%20Donae'o).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>647</key>
+		<dict>
+			<key>Track ID</key><integer>647</integer>
+			<key>Name</key><string>Cold Blooded</string>
+			<key>Artist</key><string>Kryptic Minds &#38; Youngsta</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14835436</integer>
+			<key>Total Time</key><integer>370860</integer>
+			<key>Track Number</key><integer>27</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:53Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8A1AFE992F31C190</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/27%20Cold%20Blooded.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>649</key>
+		<dict>
+			<key>Track ID</key><integer>649</integer>
+			<key>Name</key><string>Ambush Riddem (VIP Mix)</string>
+			<key>Artist</key><string>Zed Bias</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12908639</integer>
+			<key>Total Time</key><integer>322690</integer>
+			<key>Track Number</key><integer>28</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:40Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D24D7EF52B67F03C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/28%20Ambush%20Riddem%20(VIP%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>651</key>
+		<dict>
+			<key>Track ID</key><integer>651</integer>
+			<key>Name</key><string>Maroon Chant</string>
+			<key>Artist</key><string>Gemmy</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11612952</integer>
+			<key>Total Time</key><integer>290298</integer>
+			<key>Track Number</key><integer>29</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:31Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3393674890</integer>
+			<key>Play Date UTC</key><date>2011-07-16T23:28:10Z</date>
+			<key>Persistent ID</key><string>35DC9DDF0B3F8733</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/29%20Maroon%20Chant.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>653</key>
+		<dict>
+			<key>Track ID</key><integer>653</integer>
+			<key>Name</key><string>Strung Out</string>
+			<key>Artist</key><string>Bar9</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13581536</integer>
+			<key>Total Time</key><integer>339513</integer>
+			<key>Track Number</key><integer>30</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:21Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>028C15CCD575F389</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/30%20Strung%20Out.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>655</key>
+		<dict>
+			<key>Track ID</key><integer>655</integer>
+			<key>Name</key><string>Blizard</string>
+			<key>Artist</key><string>LD</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8786495</integer>
+			<key>Total Time</key><integer>219637</integer>
+			<key>Track Number</key><integer>31</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:37Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6A1B36BA989470B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/31%20Blizard.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>657</key>
+		<dict>
+			<key>Track ID</key><integer>657</integer>
+			<key>Name</key><string>Candy</string>
+			<key>Artist</key><string>Heny G</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20238578</integer>
+			<key>Total Time</key><integer>505939</integer>
+			<key>Track Number</key><integer>32</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:41Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>59F464FC20011A18</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/32%20Candy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>659</key>
+		<dict>
+			<key>Track ID</key><integer>659</integer>
+			<key>Name</key><string>Disgustin Justin</string>
+			<key>Artist</key><string>Lost</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10857493</integer>
+			<key>Total Time</key><integer>271412</integer>
+			<key>Track Number</key><integer>33</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:42Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C5DD4ACDF8F95223</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/33%20Disgustin%20Justin.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>661</key>
+		<dict>
+			<key>Track ID</key><integer>661</integer>
+			<key>Name</key><string>Bug Spray</string>
+			<key>Artist</key><string>Tunnidge</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11299482</integer>
+			<key>Total Time</key><integer>282462</integer>
+			<key>Track Number</key><integer>34</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:49Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>58001347BD4D9104</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/34%20Bug%20Spray.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>663</key>
+		<dict>
+			<key>Track ID</key><integer>663</integer>
+			<key>Name</key><string>Fairy Cake</string>
+			<key>Artist</key><string>Fused Forces</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13349577</integer>
+			<key>Total Time</key><integer>333714</integer>
+			<key>Track Number</key><integer>35</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:15Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3393665668</integer>
+			<key>Play Date UTC</key><date>2011-07-16T20:54:28Z</date>
+			<key>Persistent ID</key><string>D04E96357A8D285D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/35%20Fairy%20Cake.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>665</key>
+		<dict>
+			<key>Track ID</key><integer>665</integer>
+			<key>Name</key><string>Mako Energy</string>
+			<key>Artist</key><string>Kulture</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10376838</integer>
+			<key>Total Time</key><integer>259395</integer>
+			<key>Track Number</key><integer>36</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:38Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3393675149</integer>
+			<key>Play Date UTC</key><date>2011-07-16T23:32:29Z</date>
+			<key>Persistent ID</key><string>1F358AC4F216F5CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/36%20Mako%20Energy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>667</key>
+		<dict>
+			<key>Track ID</key><integer>667</integer>
+			<key>Name</key><string>Angels (VIP Mix)</string>
+			<key>Artist</key><string>Synkro</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13431079</integer>
+			<key>Total Time</key><integer>335751</integer>
+			<key>Track Number</key><integer>37</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:22Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>17BD118F52F66D19</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/37%20Angels%20(VIP%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>669</key>
+		<dict>
+			<key>Track ID</key><integer>669</integer>
+			<key>Name</key><string>Haterz</string>
+			<key>Artist</key><string>Killa &#38; Instinct</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12285871</integer>
+			<key>Total Time</key><integer>307121</integer>
+			<key>Track Number</key><integer>38</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:38Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F1ACE5B0745C2DB3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/38%20Haterz.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>671</key>
+		<dict>
+			<key>Track ID</key><integer>671</integer>
+			<key>Name</key><string>Comedown</string>
+			<key>Artist</key><string>Clubroot</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14979612</integer>
+			<key>Total Time</key><integer>374465</integer>
+			<key>Track Number</key><integer>39</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:20Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>21C364B417C1AA80</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/39%20Comedown.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>673</key>
+		<dict>
+			<key>Track ID</key><integer>673</integer>
+			<key>Name</key><string>Bucktooth</string>
+			<key>Artist</key><string>Chimpo</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11522043</integer>
+			<key>Total Time</key><integer>288026</integer>
+			<key>Track Number</key><integer>40</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:31Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3393664802</integer>
+			<key>Play Date UTC</key><date>2011-07-16T20:40:02Z</date>
+			<key>Persistent ID</key><string>8C5700A64354571C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/40%20Bucktooth.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>675</key>
+		<dict>
+			<key>Track ID</key><integer>675</integer>
+			<key>Name</key><string>Jungle Fears</string>
+			<key>Artist</key><string>Distance</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12101967</integer>
+			<key>Total Time</key><integer>302524</integer>
+			<key>Track Number</key><integer>41</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:25Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>35F72EC3D4D44B0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/41%20Jungle%20Fears.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>677</key>
+		<dict>
+			<key>Track ID</key><integer>677</integer>
+			<key>Name</key><string>Spit n Polish</string>
+			<key>Artist</key><string>Fused Forces</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12118690</integer>
+			<key>Total Time</key><integer>302942</integer>
+			<key>Track Number</key><integer>42</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:57Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C186E5033D12D718</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/42%20Spit%20n%20Polish.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>679</key>
+		<dict>
+			<key>Track ID</key><integer>679</integer>
+			<key>Name</key><string>GetDarker Presents This Is Dubstep 3 (Bonus Continuous Mix 1)</string>
+			<key>Artist</key><string>DJ Darkside</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>137548357</integer>
+			<key>Total Time</key><integer>3438680</integer>
+			<key>Track Number</key><integer>43</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:54Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4B97EC64D57F200E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/43%20GetDarker%20Presents%20This%20Is%20Dubste.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>681</key>
+		<dict>
+			<key>Track ID</key><integer>681</integer>
+			<key>Name</key><string>GetDarker Presents This Is Dubstep 3 (Bonus Continuous Mix 2)</string>
+			<key>Artist</key><string>DJ Darkside</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>131176569</integer>
+			<key>Total Time</key><integer>3279386</integer>
+			<key>Track Number</key><integer>44</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:54Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>AA44C9EAF0DE8F60</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/44%20GetDarker%20Presents%20This%20Is%20Dubste.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>683</key>
+		<dict>
+			<key>Track ID</key><integer>683</integer>
+			<key>Name</key><string>Geordie Racer (feat. Subscape)</string>
+			<key>Artist</key><string>Caspa</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11155303</integer>
+			<key>Total Time</key><integer>278857</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:12:58Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3394105053</integer>
+			<key>Play Date UTC</key><date>2011-07-21T22:57:33Z</date>
+			<key>Persistent ID</key><string>D19949C1D134BBD3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/01%20Geordie%20Racer%20(feat.%20Subscape).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>685</key>
+		<dict>
+			<key>Track ID</key><integer>685</integer>
+			<key>Name</key><string>02 Gold Dust (Flux Pavilion Remix)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13016293</integer>
+			<key>Total Time</key><integer>325407</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:19Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3399455249</integer>
+			<key>Play Date UTC</key><date>2011-09-21T21:07:29Z</date>
+			<key>Persistent ID</key><string>1908AB6D9E805F70</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/02%20Gold%20Dust%20(Flux%20Pavilion%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>687</key>
+		<dict>
+			<key>Track ID</key><integer>687</integer>
+			<key>Name</key><string>Stop Watching</string>
+			<key>Artist</key><string>Benga</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12167792</integer>
+			<key>Total Time</key><integer>304169</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:23Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3399455553</integer>
+			<key>Play Date UTC</key><date>2011-09-21T21:12:33Z</date>
+			<key>Persistent ID</key><string>664169E014EBCE79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/03%20Stop%20Watching.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>689</key>
+		<dict>
+			<key>Track ID</key><integer>689</integer>
+			<key>Name</key><string>Kickstarts (Bar 9 Remix)</string>
+			<key>Artist</key><string>Example</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11751936</integer>
+			<key>Total Time</key><integer>293773</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:31Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3403269129</integer>
+			<key>Play Date UTC</key><date>2011-11-05T00:32:09Z</date>
+			<key>Persistent ID</key><string>EB025E577E3A1530</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/04%20Kickstarts%20(Bar%209%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>691</key>
+		<dict>
+			<key>Track ID</key><integer>691</integer>
+			<key>Name</key><string>Show Me (Skream Remix) [feat. Phe Phe]</string>
+			<key>Artist</key><string>Von D</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18249170</integer>
+			<key>Total Time</key><integer>456202</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:12:53Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8F49F497B6D5B2D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/05%20Show%20Me%20(Skream%20Remix)%20%5Bfeat.%20Phe.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>693</key>
+		<dict>
+			<key>Track ID</key><integer>693</integer>
+			<key>Name</key><string>Let Me Be Your Fantasy (Mensah Remix)</string>
+			<key>Artist</key><string>Baby D</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14844891</integer>
+			<key>Total Time</key><integer>371095</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:53Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3393673985</integer>
+			<key>Play Date UTC</key><date>2011-07-16T23:13:05Z</date>
+			<key>Persistent ID</key><string>8681854D40CFD728</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/06%20Let%20Me%20Be%20Your%20Fantasy%20(Mensah%20Re.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>695</key>
+		<dict>
+			<key>Track ID</key><integer>695</integer>
+			<key>Name</key><string>Splash (Rusko Remix) [feat. Coco]</string>
+			<key>Artist</key><string>Splash</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10028948</integer>
+			<key>Total Time</key><integer>250697</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:39Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>34A09FD6990F02A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/07%20Splash%20(Rusko%20Remix)%20%5Bfeat.%20Coco%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>697</key>
+		<dict>
+			<key>Track ID</key><integer>697</integer>
+			<key>Name</key><string>Cracks (Flux Pavillion Remix) [feat. Belle Humble]</string>
+			<key>Artist</key><string>Freestylers</string>
+			<key>Album</key><string>This Is Dubstep, Vol. 3 (GetDarker Presents)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11326751</integer>
+			<key>Total Time</key><integer>283141</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>44</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-15T22:13:17Z</date>
+			<key>Date Added</key><date>2011-07-15T23:42:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3403462995</integer>
+			<key>Play Date UTC</key><date>2011-11-07T06:23:15Z</date>
+			<key>Persistent ID</key><string>1F20D811E258B7FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Downloads/This%20Is%20Dubstep%20Vol.%203/08%20Cracks%20(Flux%20Pavillion%20Remix)%20%5Bfe.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>699</key>
+		<dict>
+			<key>Track ID</key><integer>699</integer>
+			<key>Name</key><string>Fat Joe ft. Terror Squad - Lean Back (Cyrex Remix)FT_[www.DubstepRemix.Org]</string>
+			<key>Artist</key><string>Cyrex</string>
+			<key>Album Artist</key><string>DubstepRemix.Org</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9872194</integer>
+			<key>Total Time</key><integer>244976</integer>
+			<key>Date Modified</key><date>2011-08-18T19:46:33Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3398085960</integer>
+			<key>Play Date UTC</key><date>2011-09-06T00:46:00Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>F3B347600671BFBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Fat%20Joe%20ft.%20Terror%20Squad%20-%20Lean%20Back%20(Cyrex%20Remix)FT_%5Bwww.DubstepRemix.Org%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>701</key>
+		<dict>
+			<key>Track ID</key><integer>701</integer>
+			<key>Name</key><string>Lies (Doctor P Remix)</string>
+			<key>Artist</key><string>Fenech-Soler</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8001950</integer>
+			<key>Total Time</key><integer>333139</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-08-18T20:37:01Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:15Z</date>
+			<key>Bit Rate</key><integer>191</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3403465596</integer>
+			<key>Play Date UTC</key><date>2011-11-07T07:06:36Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FEFEDDE5169F565D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Fenech%20Soler%20-%20Lies%20(Doctor%20P%20Remix)_DubstepRemix.Org.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>703</key>
+		<dict>
+			<key>Track ID</key><integer>703</integer>
+			<key>Name</key><string>Rabbit Heart (SLOF MAN &#38; JOR-ONE REMIX)</string>
+			<key>Artist</key><string>Florence and the Machine</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13837917</integer>
+			<key>Total Time</key><integer>345678</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-08-18T20:41:36Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3403267401</integer>
+			<key>Play Date UTC</key><date>2011-11-05T00:03:21Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-11-07T07:10:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>670C1DF9B97C2B3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Florence%20and%20the%20Machine%20-%20Rabbit%20Heart%20(SLOF%20MAN%20&#38;%20JOR-ONE%20REMIX)_DubstepRemix.Org.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>705</key>
+		<dict>
+			<key>Track ID</key><integer>705</integer>
+			<key>Name</key><string>Flux Pavilion - Excuse Me (Original Dubstep Mix)VCF_DubstepRemix.Org</string>
+			<key>Artist</key><string>DubstepRemix.Org</string>
+			<key>Album Artist</key><string>DubstepRemix.Org</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Genre</key><string>DubStep</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12175545</integer>
+			<key>Total Time</key><integer>304117</integer>
+			<key>Date Modified</key><date>2011-08-18T20:18:43Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3399887157</integer>
+			<key>Play Date UTC</key><date>2011-09-26T21:05:57Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2E6CE3A6761747DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Flux%20Pavilion%20-%20Excuse%20Me%20(Original%20Dubstep%20Mix)VCF_DubstepRemix.Org.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>707</key>
+		<dict>
+			<key>Track ID</key><integer>707</integer>
+			<key>Name</key><string>Flux Pavilion - Got 2 Know (Original Dubstep Mix)F_DubstepRemix.Org</string>
+			<key>Artist</key><string>DubstepRemix.Org</string>
+			<key>Album Artist</key><string>DubstepRemix.Org</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13983067</integer>
+			<key>Total Time</key><integer>349309</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-08-18T20:12:41Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3403267750</integer>
+			<key>Play Date UTC</key><date>2011-11-05T00:09:10Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-11-07T07:10:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E0AE06004B54D19F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Flux%20Pavilion%20-%20Got%202%20Know%20(Original%20Dubstep%20Mix)F_DubstepRemix.Org.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>709</key>
+		<dict>
+			<key>Track ID</key><integer>709</integer>
+			<key>Name</key><string>I Can't Stop</string>
+			<key>Artist</key><string>Flux Pavilion</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Genre</key><string>Dubstep</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8848421</integer>
+			<key>Total Time</key><integer>220943</integer>
+			<key>Date Modified</key><date>2011-08-18T20:37:17Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3403466312</integer>
+			<key>Play Date UTC</key><date>2011-11-07T07:18:32Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DD9F95F4A8B2ED27</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Flux%20Pavilion%20-%20I%20Cant%20Stop_DubstepRemix.Org.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>711</key>
+		<dict>
+			<key>Track ID</key><integer>711</integer>
+			<key>Name</key><string>Haunt You</string>
+			<key>Artist</key><string>Flux Pavillionⶫ</string>
+			<key>Album Artist</key><string>DubstepRemix.Org</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Album</key><string>Lines In Wax EP</string>
+			<key>Genre</key><string>Dubstep</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13228641</integer>
+			<key>Total Time</key><integer>328698</integer>
+			<key>Date Modified</key><date>2011-08-18T19:58:36Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3403269457</integer>
+			<key>Play Date UTC</key><date>2011-11-05T00:37:37Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>EF4BCE44855D5F54</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Flux%20Pavillion%20%E2%80%93%20Haunt%20You%20(Original%20Dubstep%20Remix)VC_DubstepRemix.Org.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>713</key>
+		<dict>
+			<key>Track ID</key><integer>713</integer>
+			<key>Name</key><string>Streets Of Rage - Flux Pavilion Remix</string>
+			<key>Artist</key><string>Picto</string>
+			<key>Composer</key><string>DubstepRemix.org</string>
+			<key>Album</key><string>Air Raid / Streets Of Rage (Flux Pavilion Remix)</string>
+			<key>Genre</key><string>Dubstep</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12977170</integer>
+			<key>Total Time</key><integer>324153</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-08-18T20:27:29Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3399459031</integer>
+			<key>Play Date UTC</key><date>2011-09-21T22:10:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>175E8DDF42DDEE45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Flux%20Pavillion%20-%20Streets%20of%20Rage%20(Original%20Dubstep%20Remix)_DubstepRemix.org.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>715</key>
+		<dict>
+			<key>Track ID</key><integer>715</integer>
+			<key>Name</key><string>Stylo (MAK Dubstep Bootleg Remix)</string>
+			<key>Artist</key><string>Gorillaz</string>
+			<key>Album Artist</key><string>DubstepRemix.Org</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8940538</integer>
+			<key>Total Time</key><integer>372062</integer>
+			<key>Date Modified</key><date>2011-08-18T20:05:44Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3399459403</integer>
+			<key>Play Date UTC</key><date>2011-09-21T22:16:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>43E3718637B01FE0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Gorillaz%20-%20Stylo%20(Mak%20Dubstep%20Remix)VC_DubstepRemix.Org.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>717</key>
+		<dict>
+			<key>Track ID</key><integer>717</integer>
+			<key>Name</key><string>Army of Love (Centron Remix)</string>
+			<key>Artist</key><string>Kerli</string>
+			<key>Album Artist</key><string>DubstepRemix.Org</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11533169</integer>
+			<key>Total Time</key><integer>288052</integer>
+			<key>Date Modified</key><date>2011-08-18T20:01:31Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3399459691</integer>
+			<key>Play Date UTC</key><date>2011-09-21T22:21:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>90508BBCFDD14CDB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Kerli%20-%20Army%20of%20Love%20(Centron%20Dubstep%20Remix)VC_DubstepRemix.Org.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>719</key>
+		<dict>
+			<key>Track ID</key><integer>719</integer>
+			<key>Name</key><string>Sweet Talk</string>
+			<key>Artist</key><string>Kito feat. Reija Lee</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10089779</integer>
+			<key>Total Time</key><integer>251977</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2011-08-18T20:24:34Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3403466091</integer>
+			<key>Play Date UTC</key><date>2011-11-07T07:14:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-17T07:48:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B7A329DEADFBC50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Kito%20ft.%20Reija%20Lee%20-%20Sweet%20Talk%20(Original%20Dubstep%20Mix)V_DubstepRemix.Org.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>721</key>
+		<dict>
+			<key>Track ID</key><integer>721</integer>
+			<key>Name</key><string>Blind</string>
+			<key>Artist</key><string>Mr. Frenkie</string>
+			<key>Album Artist</key><string>DubstepRemix.Org</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Album</key><string>New Blood of Dubstep Volume 2</string>
+			<key>Genre</key><string>Bass</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12974736</integer>
+			<key>Total Time</key><integer>322351</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-18T19:38:18Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3403268835</integer>
+			<key>Play Date UTC</key><date>2011-11-05T00:27:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-10-28T02:57:28Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>B2EE17AC3F5140A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Mr.%20Frenkie%20-%20Blind%20(Original%20Dubstep%20Mix)MC_%5Bwww.DubstepRemix.Org%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>723</key>
+		<dict>
+			<key>Track ID</key><integer>723</integer>
+			<key>Name</key><string>Afterglow (Akira Kiteshi Remix)</string>
+			<key>Artist</key><string>Phaeleh</string>
+			<key>Album Artist</key><string>DubstepRemix.Org</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Album</key><string>Afterglow (Akira Kiteshi Remix) / Low</string>
+			<key>Genre</key><string>Dubstep</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11454453</integer>
+			<key>Total Time</key><integer>284342</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-08-18T19:41:19Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3400062675</integer>
+			<key>Play Date UTC</key><date>2011-09-28T21:51:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>58517E43AA0EA075</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Phaeleh%20-%20Afterglow%20(Akira%20Kiteshi%20Remix)VC_%5Bwww.DubstepRemix.Org%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>725</key>
+		<dict>
+			<key>Track ID</key><integer>725</integer>
+			<key>Name</key><string>Savage Garden - To The Moon (Sako Dubstep Remix)VC_[www.DubstepRemix.Org]</string>
+			<key>Artist</key><string>DubstepRemix.Org</string>
+			<key>Album Artist</key><string>DubstepRemix.Org</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8998731</integer>
+			<key>Total Time</key><integer>222955</integer>
+			<key>Date Modified</key><date>2011-08-18T19:40:12Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3399460773</integer>
+			<key>Play Date UTC</key><date>2011-09-21T22:39:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>CD57AF94F97623B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Savage%20Garden%20-%20To%20The%20Moon%20(Sako%20Dubstep%20Remix)VC_%5Bwww.DubstepRemix.Org%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>727</key>
+		<dict>
+			<key>Track ID</key><integer>727</integer>
+			<key>Name</key><string>Cobwebs</string>
+			<key>Artist</key><string>Skeptiks</string>
+			<key>Album Artist</key><string>DubstepRemix.Org</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Album</key><string>Cobwebs</string>
+			<key>Genre</key><string>Dubstep</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11294614</integer>
+			<key>Total Time</key><integer>280346</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-18T19:49:09Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3400248429</integer>
+			<key>Play Date UTC</key><date>2011-10-01T01:27:09Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>614CAF6922495673</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Skeptiks%20-%20Cobwebs%20(Original%20Dubstep%20Mix)F_%5Bwww.DubstepRemix.org%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>729</key>
+		<dict>
+			<key>Track ID</key><integer>729</integer>
+			<key>Name</key><string>The Qemists ft. Maxsta - Renegade VIP (Original Dubstep Remix)F_DubstepRemix.Org</string>
+			<key>Artist</key><string>DubstepRemix.Org</string>
+			<key>Album Artist</key><string>DubstepRemix.Org</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12060587</integer>
+			<key>Total Time</key><integer>301248</integer>
+			<key>Date Modified</key><date>2011-08-18T20:10:36Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3403267055</integer>
+			<key>Play Date UTC</key><date>2011-11-04T23:57:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Qemists ft. Maxsta - Renegade VIP (Original Dubstep Remix)F_DubstepRemix.Org</string>
+			<key>Persistent ID</key><string>3D591A02ABD3D6E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/The%20Qemists%20ft.%20Maxsta%20-%20Renegade%20VIP%20(Original%20Dubstep%20Remix)F_DubstepRemix.Org.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>731</key>
+		<dict>
+			<key>Track ID</key><integer>731</integer>
+			<key>Name</key><string>Chase_&#38;_Status_-_Time_ft_Delilah_(Danny_Dennett_Remix)VC_[www.DubstepRemix.org]</string>
+			<key>Artist</key><string>DubstepRemix.Org</string>
+			<key>Album Artist</key><string>DubstepRemix.Org</string>
+			<key>Composer</key><string>DubstepRemix.Org</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11945391</integer>
+			<key>Total Time</key><integer>296620</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2011-08-18T20:02:01Z</date>
+			<key>Date Added</key><date>2011-08-18T20:46:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DubstepRemix.Org</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3400148841</integer>
+			<key>Play Date UTC</key><date>2011-09-29T21:47:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>540BDE918A4AB6AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Cyrus/Music/Downloaded%20Music/DubStep/Chase_&#38;_Status_-_Time_ft_Delilah_(Danny_Dennett_Remix)VC_%5Bwww.DubstepRemix.org%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>1047</integer>
+			<key>Playlist Persistent ID</key><string>982A4796769DCC19</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>687</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>639</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>675</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>679</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>731</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>725</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>625</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>617</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>657</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>571</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>635</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>553</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>647</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>665</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>659</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>637</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>627</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>643</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>723</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>641</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>727</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>649</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>685</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Playlist ID</key><integer>1252</integer>
+			<key>Playlist Persistent ID</key><string>95A0982FC1AFFED7</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>687</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>639</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>675</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>679</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>731</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>725</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>625</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>617</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>657</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>571</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>635</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>553</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>647</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>665</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>659</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>637</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>627</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>643</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>723</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>641</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>727</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>649</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>685</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Playlist ID</key><integer>1365</integer>
+			<key>Playlist Persistent ID</key><string>46AF1E156335F23D</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>503</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>TV Shows</string>
+			<key>Playlist ID</key><integer>1369</integer>
+			<key>Playlist Persistent ID</key><string>404CB1F975D28F1B</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Podcasts</string>
+			<key>Playlist ID</key><integer>1242</integer>
+			<key>Playlist Persistent ID</key><string>0687B99ADB73B62F</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Books</string>
+			<key>Playlist ID</key><integer>1372</integer>
+			<key>Playlist Persistent ID</key><string>D25A3DEA6BB33F74</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>Books</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Purchased</string>
+			<key>Playlist ID</key><integer>1388</integer>
+			<key>Playlist Persistent ID</key><string>688372336D2BFB5E</string>
+			<key>Distinguished Kind</key><integer>19</integer>
+			<key>Purchased Music</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Purchased on iPhone</string>
+			<key>Playlist ID</key><integer>1391</integer>
+			<key>Playlist Persistent ID</key><string>BE1AA22DB3D60C23</string>
+			<key>Distinguished Kind</key><integer>20</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Purchased on iPhone</string>
+			<key>Playlist ID</key><integer>1394</integer>
+			<key>Playlist Persistent ID</key><string>6F5B831355C55CEC</string>
+			<key>Distinguished Kind</key><integer>20</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>iTunes DJ</string>
+			<key>Playlist ID</key><integer>1222</integer>
+			<key>Playlist Persistent ID</key><string>6555FD5303767319</string>
+			<key>Distinguished Kind</key><integer>22</integer>
+			<key>Party Shuffle</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>729</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>90’s Music</string>
+			<key>Playlist ID</key><integer>1165</integer>
+			<key>Playlist Persistent ID</key><string>63425D45D3821F08</string>
+			<key>Distinguished Kind</key><integer>200</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAB8YAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAB88AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgFNMc3QAAQAB
+			AAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAABAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAIAAAAAAAAAAA
+			AAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>521</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Classical Music</string>
+			<key>Playlist ID</key><integer>1219</integer>
+			<key>Playlist Persistent ID</key><string>F2DB222991893EA5</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnpTTHN0AAEAAQAAAAcAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQwBsAGEAcwBzAGkAYwBhAGwAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABLAGwAYQBzAHMAaQBlAGsAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBD
+			AGwAYQBzAHMAaQBxAHUAZQAAAAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAEsAbABhAHMAcwBpAGsAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABDAGwAYQBzAHMAaQBjAGEAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACjCv
+			MOkwtzDDMK8AAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAADgBDAGwA4QBzAGkAYwBh
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music Videos</string>
+			<key>Playlist ID</key><integer>1216</integer>
+			<key>Playlist Persistent ID</key><string>F451CA7F2B1F1B66</string>
+			<key>Distinguished Kind</key><integer>205</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>My Top Rated</string>
+			<key>Playlist ID</key><integer>1171</integer>
+			<key>Playlist Persistent ID</key><string>5AA591FD3A015B8F</string>
+			<key>Distinguished Kind</key><integer>201</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAADwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>603</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Recently Played</string>
+			<key>Playlist ID</key><integer>1203</integer>
+			<key>Playlist Persistent ID</key><string>59D6B59164EB9E3A</string>
+			<key>Distinguished Kind</key><integer>203</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>721</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Top 25 Most Played</string>
+			<key>Playlist ID</key><integer>1175</integer>
+			<key>Playlist Persistent ID</key><string>CF5E5930909F90A5</string>
+			<key>Distinguished Kind</key><integer>202</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEBAwAAABkAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkCAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAEAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>731</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>723</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>727</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>693</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Best of 1989</string>
+			<key>Playlist ID</key><integer>1397</integer>
+			<key>Playlist Persistent ID</key><string>0088151468E41C8B</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Best of Dubstep</string>
+			<key>Playlist ID</key><integer>1612</integer>
+			<key>Playlist Persistent ID</key><string>CCE1305D8E38A1D6</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>581</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Best of Game Music</string>
+			<key>Playlist ID</key><integer>1419</integer>
+			<key>Playlist Persistent ID</key><string>B8DDC7067193B6AA</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>571</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>599</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Best of Rap</string>
+			<key>Playlist ID</key><integer>1445</integer>
+			<key>Playlist Persistent ID</key><string>42D5C3CC3F4797FD</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>607</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

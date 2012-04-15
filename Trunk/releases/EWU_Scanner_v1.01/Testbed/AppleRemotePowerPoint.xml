@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<EventGhost Name="Configuration Tree" Expanded="True" Version="1462" Guid="{4FC51F2E-4AC4-4309-8D8B-E5AE9C545877}" Time="1321517013.78">
+    <Autostart Name="Autostart">
+        <Plugin File="HID" Identifier="HID">
+            gAIoWAAAAABxAIiJiVVSXFw/XGhpZCN2aWRfMDVhYyZwaWRfODI0MiM3JjMxN2VkZWI2JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfXEBTawFWBQAAABBcHBsZSBDb21wdXRlciwgSW5jLnECTUKCWAsAAABJUiBSZWNlaXZlcnEDSxaJSwB0cQQu
+        </Plugin>
+    </Autostart>
+    <Macro Name="Emulate Keystrokes: {F5}" Expanded="True">
+        <Event Name="HID.Button.4" />
+        <Action>
+            Window.SendKeys(u'{F5}', False)
+        </Action>
+    </Macro>
+    <Macro Name="Emulate Keystrokes: {Left}">
+        <Event Name="HID.Button.2" />
+        <Action>
+            Window.SendKeys(u'{Left}', False)
+        </Action>
+    </Macro>
+    <Macro Name="Emulate Keystrokes: {Right}">
+        <Event Name="HID.Button.3" />
+        <Action>
+            Window.SendKeys(u'{Right}', False)
+        </Action>
+    </Macro>
+</EventGhost>

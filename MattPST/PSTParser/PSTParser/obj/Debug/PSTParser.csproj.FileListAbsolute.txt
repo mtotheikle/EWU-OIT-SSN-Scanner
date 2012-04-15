@@ -1,0 +1,12 @@
+c:\documents and settings\mat\my documents\visual studio 2010\Projects\PSTParser\PSTParser\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\mat\my documents\visual studio 2010\Projects\PSTParser\PSTParser\obj\Debug\PSTParser.csproj.ResolveComReference.cache
+c:\documents and settings\mat\my documents\visual studio 2010\Projects\PSTParser\PSTParser\bin\Debug\PSTParser.dll
+c:\documents and settings\mat\my documents\visual studio 2010\Projects\PSTParser\PSTParser\bin\Debug\PSTParser.pdb
+c:\documents and settings\mat\my documents\visual studio 2010\Projects\PSTParser\PSTParser\obj\Debug\PSTParser.dll
+c:\documents and settings\mat\my documents\visual studio 2010\Projects\PSTParser\PSTParser\obj\Debug\PSTParser.pdb
+C:\Users\Cyrus\Desktop\PSTParser\PSTParser\bin\Debug\PSTParser.dll
+C:\Users\Cyrus\Desktop\PSTParser\PSTParser\bin\Debug\PSTParser.pdb
+C:\Users\Cyrus\Desktop\PSTParser\PSTParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cyrus\Desktop\PSTParser\PSTParser\obj\Debug\PSTParser.csproj.ResolveComReference.cache
+C:\Users\Cyrus\Desktop\PSTParser\PSTParser\obj\Debug\PSTParser.dll
+C:\Users\Cyrus\Desktop\PSTParser\PSTParser\obj\Debug\PSTParser.pdb

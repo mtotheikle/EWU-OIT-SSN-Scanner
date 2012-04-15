@@ -1,0 +1,12 @@
+C:\Users\gsprint\Desktop\EWU_Scanner\bin\Debug\SevenZip.exe.config
+C:\Users\gsprint\Desktop\EWU_Scanner\bin\Debug\SevenZip.exe
+C:\Users\gsprint\Desktop\EWU_Scanner\bin\Debug\SevenZip.pdb
+C:\Users\gsprint\Desktop\EWU_Scanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gsprint\Desktop\EWU_Scanner\obj\Debug\SevenZip.Properties.Resources.resources
+C:\Users\gsprint\Desktop\EWU_Scanner\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\gsprint\Desktop\EWU_Scanner\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\gsprint\Desktop\EWU_Scanner\obj\Debug\SevenZip.exe
+C:\Users\gsprint\Desktop\EWU_Scanner\obj\Debug\SevenZip.pdb
+C:\Users\gsprint\Desktop\EWU_Scanner\obj\Debug\Scan_UI.Scanner_Form.resources
+C:\Users\gsprint\Desktop\EWU_Scanner\bin\Debug\Scan_UI.exe.config
+C:\Users\gsprint\Desktop\EWU_Scanner\bin\Debug\Scanner_UI.exe.config

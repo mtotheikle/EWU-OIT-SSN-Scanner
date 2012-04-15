@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<vps>
+    <vendorProductSets>
+        <vendorProductSet vendorID="78" vendor="MicroVision Development, Inc." copyright="copyright 1997-2006, MicroVision Development, Inc." version="1" schemaVersion="1">
+            <product productID="20002" units="in" layoutGroup="mediaLabel">
+                <prodName nameGroup="custom_nonmetric">
+                    <locName locale="all">SureThing Full Face</locName>
+                </prodName>
+                <desc descGroup="mediaLabel" />
+                <masterPanel masterID="0" height="4.65" width="4.65"/>
+		<cutout masterID="0" posX="0" posY="0" height="4.65" width="4.65" shape="ellipse" />
+                <cutout masterID="0" posX="1.99" posY="1.99" height=".67" width=".67" shape="ellipse" />
+		<sheet height="11" width="8.5" allowPartialSheet="true">
+                	<panel masterID="0" posX="1.377" posY=".728" />
+                	<panel masterID="0" posX="2.45" posY="5.62" />
+		</sheet>
+            </product>
+            <product productID="20001" units="in" layoutGroup="mediaLabel">
+                <prodName nameGroup="custom_nonmetric">
+                    <locName locale="all">SureThing Standard Face</locName>
+                </prodName>
+                <desc descGroup="mediaLabel" />
+                <masterPanel masterID="0" height="4.65" width="4.65"/>
+		<cutout masterID="0" posX="0" posY="0" height="4.65" width="4.65" shape="ellipse" />
+                <cutout masterID="0" posX="1.52" posY="1.52" height="1.61" width="1.61" shape="ellipse" />
+		<sheet height="11" width="8.5" allowPartialSheet="true">
+                	<panel masterID="0" posX="1.377" posY=".728" />
+                	<panel masterID="0" posX="2.45" posY="5.62" />
+		</sheet>
+            </product>
+        </vendorProductSet>
+    </vendorProductSets>
+</vps>

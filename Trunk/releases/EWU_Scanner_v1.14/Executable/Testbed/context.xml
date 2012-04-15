@@ -1,0 +1,20 @@
+﻿<?xml version='1.0' encoding="utf-8" ?>
+<DynamicHelp xmlns="http://microsoft.com/vstudio/tbd/vsdh.xsd">
+  <Preference AttrName="Locale" AttrValue="kbEnglish"/>
+  <LINKGROUP ID="help" Title="Help" Priority="500">
+    <GLYPH Collapsed="1" Expanded="2" />
+  </LINKGROUP>
+  <LINKGROUP ID="actions" Title="Actions" Priority="1000">
+    <GLYPH Collapsed="5" Expanded="6" />
+  </LINKGROUP>
+  <LINKGROUP ID="misc" Title="Miscellaneous" Priority="10">
+    <GLYPH Collapsed="11" Expanded="12" />
+  </LINKGROUP>
+  <LINKGROUP ID="samples" Title="Samples" Priority="400">
+    <GLYPH Collapsed="9" Expanded="10" />
+  </LINKGROUP>
+  <LINKGROUP ID="GettingStarted" Title="Getting Started" Priority="300">
+    <GLYPH Collapsed="1" Expanded="2" />
+  </LINKGROUP>
+</DynamicHelp>
+

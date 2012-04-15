@@ -1,0 +1,17 @@
+1. My parser is based on this link that Nate sent out early in the quarter.
+http://stackoverflow.com/questions/577904/can-i-read-an-outlook-2003-2007-pst-file-in-c
+
+2. Password utility I've been talking about
+http://www.nirsoft.net/utils/pst_password.html
+
+3. PST.NET cost lots of money. 
+http://www.independentsoft.de/pst/index.html
+
+4. Open Source C++ PST SDK (This is the one I meant when I said PST.NET in class)
+http://pstsdk.codeplex.com/
+
+5. Security Alert problem (This is where the guy hints a possible solutions that can be found by "Googling better")
+http://stackoverflow.com/questions/235231/how-to-avoid-outlook-security-alert-when-reading-outlook-message-from-c-sharp-pr
+
+6. Redemption, commercial dll to subvert Outlook security patch
+http://www.dimastr.com/redemption/home.htm

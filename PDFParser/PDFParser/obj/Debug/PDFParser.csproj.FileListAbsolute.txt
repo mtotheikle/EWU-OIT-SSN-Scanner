@@ -1,0 +1,5 @@
+c:\users\gsprint\documents\visual studio 2010\Projects\PDFParser\PDFParser\obj\Debug\ResolveAssemblyReference.cache
+c:\users\gsprint\documents\visual studio 2010\Projects\PDFParser\PDFParser\bin\Debug\PDFParser.dll
+c:\users\gsprint\documents\visual studio 2010\Projects\PDFParser\PDFParser\bin\Debug\PDFParser.pdb
+c:\users\gsprint\documents\visual studio 2010\Projects\PDFParser\PDFParser\obj\Debug\PDFParser.dll
+c:\users\gsprint\documents\visual studio 2010\Projects\PDFParser\PDFParser\obj\Debug\PDFParser.pdb

@@ -1,0 +1,35 @@
+<!-- _lcid="1033" _version="11.0.4617" -->
+<!-- _LocalBinding -->
+
+<FL:smarttaglist xmlns:FL="http://schemas.microsoft.com/office/smarttags/2003/mostl">
+	<FL:name><!-- _locID_text="name" _locComment="{StringCategory=TXT}" -->MSN MoneyCentral Financial Symbols</FL:name>
+	<FL:lcid><!-- _locID_text="lcid" _locComment="{StringCategory=TXT}" -->1033,0</FL:lcid>
+	<FL:description><!-- _locID_text="description" _locComment="{StringCategory=TXT}" -->A list of stock ticker symbols for recognition, as well as a set of actions that work with them.</FL:description>
+	<FL:moreinfourl><!-- _locID_text="url" _locComment="{StringCategory=TXT}" -->http://office.microsoft.com</FL:moreinfourl>
+	<FL:updateable>true</FL:updateable>
+	<FL:autoupdate>true</FL:autoupdate>
+	<FL:lastcheckpoint>100</FL:lastcheckpoint>
+	<FL:lastupdate>5123942</FL:lastupdate>
+	<FL:updateurl><!-- _locID_text="updateurl" _locComment="{StringCategory=TXT}" -->http://office.microsoft.com/smarttags/stockupdate.xml</FL:updateurl>
+	<FL:updatefrequency>20160</FL:updatefrequency>
+	<FL:smarttag type="urn:schemas-microsoft-com:office:smarttags#stockticker">
+		<FL:caption><!-- _locID_text="recognizercaption" _locComment="{StringCategory=TXT}" -->Financial Symbol</FL:caption>
+		<FL:terms>
+			<FL:termfile><FL:filename>stocks.dat</FL:filename></FL:termfile>
+		</FL:terms>
+		<FL:actions>
+			<FL:action id="LatestQuoteData">
+				<FL:caption><!-- _locID_text="LatestQuoteCaption" _locComment="{StringCategory=TXT}" -->Stock quote on MSN MoneyCentral</FL:caption>
+				<FL:url><!-- _locID_text="actionurl1" _locComment="{StringCategory=TXT}" -->http://moneycentral.msn.com/redir/moneycentralredirect.asp?pageid=SmartTag_1&amp;Target=/scripts/webquote.dll?ipage=qd%26Symbol={TEXT}</FL:url>
+			</FL:action>
+			<FL:action id="CompanyReportData">
+				<FL:caption><!-- _locID_text="CompanyReportCaption" _locComment="{StringCategory=TXT}" -->Company report on MSN MoneyCentral</FL:caption>
+				<FL:url><!-- _locID_text="actionurl2" _locComment="{StringCategory=TXT}" -->http://moneycentral.msn.com/redir/moneycentralredirect.asp?pageid=SmartTag_2&amp;Target=/investor/research/profile.asp?Symbol={TEXT}</FL:url>
+			</FL:action>
+			<FL:action id="RecentNews">
+				<FL:caption><!-- _locID_text="RecentNewsCaption" _locComment="{StringCategory=TXT}" -->Recent news on MSN MoneyCentral</FL:caption>
+				<FL:url><!-- _locID_text="actionurl3" _locComment="{StringCategory=TXT}" -->http://moneycentral.msn.com/redir/moneycentralredirect.asp?pageid=SmartTag_3&amp;Target=http://news.moneycentral.msn.com/ticker/rcnews.asp?Symbol={TEXT}</FL:url>
+			</FL:action>
+		</FL:actions>
+	</FL:smarttag>
+</FL:smarttaglist>

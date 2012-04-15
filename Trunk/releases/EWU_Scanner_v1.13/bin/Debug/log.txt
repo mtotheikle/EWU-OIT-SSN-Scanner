@@ -1,0 +1,1040 @@
+File name: asdf.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\WalkThrough\asdf.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: Outside.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\WalkThrough\Outside.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: CCPrefixes.xml   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\Spider3\CCPrefixes.xml   Priority Level: 2 Count: 187
+======================================================================================================================================================================================
+File name: SSN.xml   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\Spider3\SSN.xml   Priority Level: 2 Count: 125
+======================================================================================================================================================================================
+File name: senf_2011110217.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\senf.haku.339\senf_2011110217.txt   Priority Level: 2 Count: 2
+======================================================================================================================================================================================
+File name: senf_2011110218.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\senf.haku.339\senf_2011110218.txt   Priority Level: 2 Count: 1
+======================================================================================================================================================================================
+File name: final-exam.odt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 460\final-exam.odt   Priority Level: 2 Count: 5
+======================================================================================================================================================================================
+File name: past-test.odt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 460\past-test.odt   Priority Level: 2 Count: 8
+======================================================================================================================================================================================
+File name: sort_results.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 300\sprintghw2\sort_results.txt   Priority Level: 2 Count: 63
+======================================================================================================================================================================================
+File name: Exam2w11Key.odt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 240\Exam2w11Key.odt   Priority Level: 2 Count: 2
+======================================================================================================================================================================================
+File name: cscd210lab6output.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 210\sprintg01lab6\cscd210lab6output.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: cscd210lab4output.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 210\sprintg01lab4\cscd210lab4output.txt   Priority Level: 2 Count: 28
+======================================================================================================================================================================================
+File name: booklist.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 210\sprintg01hw7\booklist.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: booklist2.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 210\sprintg01hw7\booklist2.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: asdf.txt   Path: C:\Users\gsprint\Documents\cs files\cscd 488\WalkThrough\asdf.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: Outside.txt   Path: C:\Users\gsprint\Documents\cs files\cscd 488\WalkThrough\Outside.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\cs files\cscd 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\cs files\cscd 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: CCPrefixes.xml   Path: C:\Users\gsprint\Documents\cs files\cscd 488\Spider3\CCPrefixes.xml   Priority Level: 2 Count: 187
+======================================================================================================================================================================================
+File name: SSN.xml   Path: C:\Users\gsprint\Documents\cs files\cscd 488\Spider3\SSN.xml   Priority Level: 2 Count: 126
+======================================================================================================================================================================================
+File name: senf_2011110217.txt   Path: C:\Users\gsprint\Documents\cs files\cscd 488\senf.haku.339\senf_2011110217.txt   Priority Level: 2 Count: 2
+======================================================================================================================================================================================
+File name: senf_2011110218.txt   Path: C:\Users\gsprint\Documents\cs files\cscd 488\senf.haku.339\senf_2011110218.txt   Priority Level: 2 Count: 1
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: savedIndexNames.txt   Path: C:\Users\gsprint\workspace\.metadata\.plugins\org.eclipse.jdt.core\savedIndexNames.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: asdf.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\WalkThrough\asdf.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: Outside.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\WalkThrough\Outside.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: senf_2011110217.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\senf.haku.339\senf_2011110217.txt   Priority Level: 2 Count: 1
+======================================================================================================================================================================================
+File name: sprintgessay2.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 402\sprintgessay2.doc   Priority Level: 2 Count: 1
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 300\sprintghw2\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: sort_results.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 300\sprintghw2\sort_results.txt   Priority Level: 2 Count: 47
+======================================================================================================================================================================================
+File name: cscd210lab6output.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 210\sprintg01lab6\cscd210lab6output.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: asdf.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\WalkThrough\asdf.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: Outside.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\WalkThrough\Outside.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: test.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\test.txt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdoc.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdoc.doc   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testdocx.docx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testdocx.docx   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testpp.ppt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testpp.ppt   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: testppt.pptx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testppt.pptx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: testrtf.rtf   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\testrtf.rtf   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxls.xls   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxls.xls   Priority Level: 2 Count: 4
+======================================================================================================================================================================================
+File name: textxlsx.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\test_cases\textxlsx.xlsx   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
+File name: senf_2011110217.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 488\senf.haku.339\senf_2011110217.txt   Priority Level: 2 Count: 1
+======================================================================================================================================================================================
+File name: sprintgessay2.doc   Path: C:\Users\gsprint\Documents\CS Files\CSCD 402\sprintgessay2.doc   Priority Level: 2 Count: 1
+======================================================================================================================================================================================
+File name: sort_graphs.xlsx   Path: C:\Users\gsprint\Documents\CS Files\CSCD 300\sprintghw2\sort_graphs.xlsx   Priority Level: 2 Count: 30
+======================================================================================================================================================================================
+File name: sort_results.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 300\sprintghw2\sort_results.txt   Priority Level: 2 Count: 47
+======================================================================================================================================================================================
+File name: cscd210lab6output.txt   Path: C:\Users\gsprint\Documents\CS Files\CSCD 210\sprintg01lab6\cscd210lab6output.txt   Priority Level: 2 Count: 3
+======================================================================================================================================================================================
