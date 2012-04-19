@@ -263,9 +263,5 @@ namespace EWUScanner
         }
 
         #endregion
-
-
-
-   
     }
 }

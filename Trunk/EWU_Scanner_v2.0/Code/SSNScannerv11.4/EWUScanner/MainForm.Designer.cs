@@ -128,7 +128,7 @@
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(92, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
@@ -145,7 +145,7 @@
             // 
             this.administratorModeToolStripMenuItem.CheckOnClick = true;
             this.administratorModeToolStripMenuItem.Name = "administratorModeToolStripMenuItem";
-            this.administratorModeToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.administratorModeToolStripMenuItem.Size = new System.Drawing.Size(167, 22);
             this.administratorModeToolStripMenuItem.Text = "Administrator Mode";
             this.administratorModeToolStripMenuItem.Click += new System.EventHandler(this.administratorModeToolStripMenuItem_Click);
             // 
@@ -155,7 +155,7 @@
             this.ssnToolStripMenuItem,
             this.ccToolStripMenuItem});
             this.scanModeToolStripMenuItem.Name = "scanModeToolStripMenuItem";
-            this.scanModeToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.scanModeToolStripMenuItem.Size = new System.Drawing.Size(167, 22);
             this.scanModeToolStripMenuItem.Text = "Scan Modes";
             // 
             // ssnToolStripMenuItem
@@ -164,7 +164,7 @@
             this.ssnToolStripMenuItem.CheckOnClick = true;
             this.ssnToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.ssnToolStripMenuItem.Name = "ssnToolStripMenuItem";
-            this.ssnToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
+            this.ssnToolStripMenuItem.Size = new System.Drawing.Size(188, 22);
             this.ssnToolStripMenuItem.Text = "Social Security Numbers";
             this.ssnToolStripMenuItem.Click += new System.EventHandler(this.ssnToolStripMenuItem_Click);
             // 
@@ -172,7 +172,7 @@
             // 
             this.ccToolStripMenuItem.CheckOnClick = true;
             this.ccToolStripMenuItem.Name = "ccToolStripMenuItem";
-            this.ccToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
+            this.ccToolStripMenuItem.Size = new System.Drawing.Size(188, 22);
             this.ccToolStripMenuItem.Text = "Credit Cards";
             this.ccToolStripMenuItem.Click += new System.EventHandler(this.ccToolStripMenuItem_Click);
             // 
@@ -189,7 +189,7 @@
             // startToolStripMenuItem
             // 
             this.startToolStripMenuItem.Name = "startToolStripMenuItem";
-            this.startToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.startToolStripMenuItem.Size = new System.Drawing.Size(112, 22);
             this.startToolStripMenuItem.Text = "Start";
             this.startToolStripMenuItem.Click += new System.EventHandler(this.startToolStripMenuItem_Click);
             // 
@@ -197,7 +197,7 @@
             // 
             this.pauseToolStripMenuItem.Enabled = false;
             this.pauseToolStripMenuItem.Name = "pauseToolStripMenuItem";
-            this.pauseToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.pauseToolStripMenuItem.Size = new System.Drawing.Size(112, 22);
             this.pauseToolStripMenuItem.Text = "Pause";
             this.pauseToolStripMenuItem.Click += new System.EventHandler(this.pauseToolStripMenuItem_Click);
             // 
@@ -205,7 +205,7 @@
             // 
             this.resumeToolStripMenuItem.Enabled = false;
             this.resumeToolStripMenuItem.Name = "resumeToolStripMenuItem";
-            this.resumeToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.resumeToolStripMenuItem.Size = new System.Drawing.Size(112, 22);
             this.resumeToolStripMenuItem.Text = "Resume";
             this.resumeToolStripMenuItem.Click += new System.EventHandler(this.resumeToolStripMenuItem_Click);
             // 
@@ -220,7 +220,7 @@
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(114, 22);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
             this.aboutToolStripMenuItem.Text = "About";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
@@ -450,6 +450,7 @@
             this.theProgressBar.Name = "theProgressBar";
             this.theProgressBar.Size = new System.Drawing.Size(481, 23);
             this.theProgressBar.TabIndex = 1;
+            this.theProgressBar.Click += new System.EventHandler(this.theProgressBar_Click);
             // 
             // btnPartialScan
             // 
@@ -467,7 +468,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CausesValidation = false;
-            this.ClientSize = new System.Drawing.Size(547, 345);
+            this.ClientSize = new System.Drawing.Size(547, 352);
             this.Controls.Add(this.bodyPanel);
             this.Controls.Add(this.headerPanel);
             this.Controls.Add(this.mainMenu);
