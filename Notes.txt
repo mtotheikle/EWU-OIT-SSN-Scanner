@@ -1,0 +1,37 @@
+Steven and Cyrus worked on C++
+	- Steven should still @ ewu
+	- Cyrus worked on Communication layer
+	- debug was done by tests for modules and some test beds
+	- Steven's should still be up there, others probably not
+	- Created one solution and then made another for the DLL project
+	- They were going to do one project, 
+	- Build parser, just needs to strip out the text for any file
+	- All parsers are added as assemblies,
+	- Engine is added using p/invoke
+		- http://pinvoke.net/
+		- some marshaling stuff and sequential stuff
+		- Have to tell C# it is sequential
+	- IFilter were not consistent on different machines with different office installs
+	- Steven was importing dll file into another 
+	
+	
+Two Bugs in engine:
+	- When there is SSN by it self in file and nothing else, no spaces, new lines it will
+	not detect it 
+	- When there were two SSN on same line separated by single space, it would only return one and
+	skip over the second.
+	
+PST OST - Were closed source 
+
+- Using PST parser through java, it is a place holder
+
+http://pstsdknet.codeplex.com/
+
+- Password protection on PST files
+	- Found algorithm that cracks the password, Cyrus will email Matt regarding pst cracking
+	
+- If admin, but can't access file, take ownership of file?? OIT did not like it
+- If encrypted in EFS, admin would not be able to access unless they took ownership
+	- Their solution was to get it wiped ??ITVM?? does not access much
+	
+- Work on other features before PST file stuff cause of pstsdk
