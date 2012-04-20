@@ -450,7 +450,6 @@
             this.theProgressBar.Name = "theProgressBar";
             this.theProgressBar.Size = new System.Drawing.Size(481, 23);
             this.theProgressBar.TabIndex = 1;
-            this.theProgressBar.Click += new System.EventHandler(this.theProgressBar_Click);
             // 
             // btnPartialScan
             // 
