@@ -124,6 +124,9 @@ namespace EWUScanner
          */
         public static void ScanDirectories(string root)
         {
+            // Testing code for Michael to scan one directory
+            //root = "Y:\\Documents\\College\\11-12\\Spring\\CSCD488\\Testbed";
+
             int currentSize = 0;
 
             Stack<string> directories = new Stack<string>(100);
@@ -914,7 +917,8 @@ namespace EWUScanner
                 {
                     com.pff.PSTFile pstFile = new com.pff.PSTFile(fInfo.FullName);
                     String text = pstFile.processFolder(pstFile.getRootFolder());
-                    pstFile.finalize();
+                    com.pff.PSTFolder folder = pstFile.getRootFolder();
+                    processFolder(folder);
 
                     if (MainForm.socialSecurityMode)
                     {
@@ -976,6 +980,77 @@ namespace EWUScanner
             }
 
             return results;
+        }
+
+        static int depth = -1;
+
+        private static void processFolder(com.pff.PSTFolder folder)
+        {
+            depth++;
+
+            if (depth > 0)
+            {
+                Console.Out.WriteLine(folder.getDisplayName());
+            }
+
+            if (folder.hasSubfolders())
+            {
+                java.util.Vector folders = folder.getSubFolders();
+                foreach (com.pff.PSTFolder childFolder in folders) {
+                    processFolder(childFolder);
+                }
+            }
+
+            if (folder.getContentCount() > 0)
+            {
+                com.pff.PSTMessage email = (com.pff.PSTMessage)folder.getNextChild();
+                depth++;
+                while (email != null)
+                {
+                    Console.Out.WriteLine("Email: " + email.getSubject());
+                    email = (com.pff.PSTMessage)folder.getNextChild();
+
+                    scanEmail(email);
+
+                }
+                depth--;
+            }
+
+            depth--;
+        }
+
+        public static void scanEmail(com.pff.PSTMessage email)
+        {
+            ScanData returnedData;
+            CreditData ccReturnedData;
+
+            try
+            {
+                if (MainForm.socialSecurityMode)
+                {
+                    returnedData = Engine.ScanForSocialSecurity(email.getBody());
+
+                    if (returnedData.RetCode > 0)
+                    {
+                        //Database entry
+                        //WriteToLogFile("Detected: " + fInfo.FullName + " Priority: " + returnedData.Priority);
+                        Database.AddToTableScanned(email.getSubject(), "Email File", returnedData);
+                        try { mainUIForm.lblItemsFound.BeginInvoke(new MainForm.InvokeDelegateFound(mainUIForm.UpdateLblItemsFound), new object[] { numFound++ }); }
+                        catch (InvalidOperationException) { }
+                    }
+                }
+                // @todo We don't scan email for credit
+            }
+            catch (UnauthorizedAccessException u)
+            {
+                //File is encrypted: Add entry to Uncsannable table with reason: encrypted.
+                Database.AddToTableUnScannable(email.getSubject(), "Email File", Environment.UserName, u.ToString());
+            }
+            catch (Exception e)
+            {
+                //Console.WriteLine(e.Message);
+                Database.AddToTableUnScannable(email.getSubject(), "Email File", Environment.UserName, e.ToString());
+            }
         }
 
         public static void WriteToLogFile(string text)

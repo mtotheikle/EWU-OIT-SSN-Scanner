@@ -39,9 +39,6 @@
     <Reference Include="IFilter">
       <HintPath>Libraries\IFilter.dll</HintPath>
     </Reference>
-    <Reference Include="IKVM.GNU.Classpath">
-      <HintPath>Libraries\IKVM.GNU.Classpath.dll</HintPath>
-    </Reference>
     <Reference Include="IKVM.OpenJDK.Core">
       <HintPath>Libraries\IKVM.OpenJDK.Core.dll</HintPath>
     </Reference>
@@ -174,9 +171,6 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Scanner.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
