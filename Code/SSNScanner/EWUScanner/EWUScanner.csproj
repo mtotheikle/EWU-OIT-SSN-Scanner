@@ -91,6 +91,12 @@
     <Compile Include="CreditData.cs" />
     <Compile Include="Database.cs" />
     <Compile Include="Engine.cs" />
+    <Compile Include="ExclusionPaths.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExclusionPaths.Designer.cs">
+      <DependentUpon>ExclusionPaths.cs</DependentUpon>
+    </Compile>
     <Compile Include="InitializingForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -112,6 +118,9 @@
       <DependentUpon>AboutForm.cs</DependentUpon>
     </Compile>
     <Compile Include="ScanData.cs" />
+    <EmbeddedResource Include="ExclusionPaths.resx">
+      <DependentUpon>ExclusionPaths.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="InitializingForm.resx">
       <DependentUpon>InitializingForm.cs</DependentUpon>
     </EmbeddedResource>

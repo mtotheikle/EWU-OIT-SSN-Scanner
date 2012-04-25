@@ -263,5 +263,11 @@ namespace EWUScanner
         }
 
         #endregion
+
+        private void excludedPathsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ExclusionPaths test = new ExclusionPaths(); //may want to re-create this somewhere else
+            test.Show();
+        }
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner\Testbed\ExclusionPathTesting\ExclusionPathTesting\bin\Debug\ExclusionPathTesting.exe
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner\Testbed\ExclusionPathTesting\ExclusionPathTesting\bin\Debug\ExclusionPathTesting.pdb
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner\Testbed\ExclusionPathTesting\ExclusionPathTesting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner\Testbed\ExclusionPathTesting\ExclusionPathTesting\obj\x86\Debug\ExclusionPathTesting.exe
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner\Testbed\ExclusionPathTesting\ExclusionPathTesting\obj\x86\Debug\ExclusionPathTesting.pdb
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner\Testbed\ExclusionPathTesting\ExclusionPathTesting\bin\Debug\ExclusionPathTesting.exe.config
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Testbed\ExclusionPathTesting\ExclusionPathTesting\bin\Debug\ExclusionPathTesting.exe.config
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Testbed\ExclusionPathTesting\ExclusionPathTesting\obj\x86\Debug\ExclusionPathTesting.exe
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Testbed\ExclusionPathTesting\ExclusionPathTesting\obj\x86\Debug\ExclusionPathTesting.pdb
