@@ -59,6 +59,7 @@
             this.DoneWithAddingPaths.TabIndex = 2;
             this.DoneWithAddingPaths.Text = "Done Adding Paths";
             this.DoneWithAddingPaths.UseVisualStyleBackColor = true;
+            this.DoneWithAddingPaths.Click += new System.EventHandler(this.DoneWithAddingPaths_Click);
             // 
             // HelpExplanation
             // 
@@ -104,6 +105,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "ExclusionPaths";
             this.Text = "Excluded Paths";
+            this.Shown += new System.EventHandler(this.ExclusionPaths_Shown);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 

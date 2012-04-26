@@ -12,7 +12,8 @@ namespace EWUScanner
     {
         //GUI Form
         public static MainForm mainUIForm = new MainForm();
-       
+
+        private static string[] exclusionPaths;
         //======Special Folder Paths===========================================================================================================================
         private static string windowsFolderPath = (Directory.GetParent(System.Environment.GetFolderPath(System.Environment.SpecialFolder.System))).FullName;
         private static string programFilesFolderPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.ProgramFiles);
@@ -48,8 +49,11 @@ namespace EWUScanner
          * returns: void
          * 
         */
-        public static void RunScan(bool adminMode)
+        public static void RunScan(bool adminMode, string[] paths)
         {
+            //getting the exclusion paths from the MainForm
+            exclusionPaths = paths;
+
             if (adminMode) //Admin Mode
             {
                 //List of all the drives on the system.

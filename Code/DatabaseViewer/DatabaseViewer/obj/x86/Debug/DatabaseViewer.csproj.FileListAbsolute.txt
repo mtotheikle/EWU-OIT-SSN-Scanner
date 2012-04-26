@@ -54,3 +54,5 @@ Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\DatabaseVi
 Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\DatabaseViewerV4\DatabaseViewer\obj\x86\Debug\ResGen.read.1.tlog
 Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\DatabaseViewerV4\DatabaseViewer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
 Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\DatabaseViewerV4\DatabaseViewer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\DatabaseViewer\DatabaseViewer\obj\x86\Debug\DatabaseViewer.exe
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\DatabaseViewer\DatabaseViewer\obj\x86\Debug\DatabaseViewer.pdb

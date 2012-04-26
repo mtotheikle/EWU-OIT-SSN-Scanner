@@ -31,6 +31,9 @@ namespace EWUScanner
 
         public InitializingForm iForm = new InitializingForm();
 
+        //to hold the exclusion paths so as to later pass them into the program code
+        internal string[] exclusionPaths; //internal is to be visible in other files
+
         public MainForm()
         {
             InitializeComponent();
@@ -58,7 +61,7 @@ namespace EWUScanner
 
         private void fileTraversalWorker_DoWork(object sender, DoWorkEventArgs e)
         {
-            Program.RunScan(adminMode);
+            Program.RunScan(adminMode, exclusionPaths);
         }
 
         private void administratorModeToolStripMenuItem_Click(object sender, EventArgs e)
@@ -264,10 +267,13 @@ namespace EWUScanner
 
         #endregion
 
+
         private void excludedPathsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            ExclusionPaths test = new ExclusionPaths(); //may want to re-create this somewhere else
-            test.Show();
+            ExclusionPaths test = new ExclusionPaths(); //creating the form that will hold the exclusion paths
+
+            test.Show(this); 
         }
+
     }
 }

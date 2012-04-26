@@ -35,6 +35,7 @@
             this.picBoxEWULogo = new System.Windows.Forms.PictureBox();
             this.mainMenu = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.excludedPathsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.modeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.administratorModeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -68,7 +69,6 @@
             this.lblPercentage = new System.Windows.Forms.Label();
             this.theProgressBar = new System.Windows.Forms.ProgressBar();
             this.btnPartialScan = new System.Windows.Forms.Button();
-            this.excludedPathsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.headerPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxEWULogo)).BeginInit();
             this.mainMenu.SuspendLayout();
@@ -82,7 +82,7 @@
             this.headerPanel.Controls.Add(this.lblMode);
             this.headerPanel.Controls.Add(this.picBoxEWULogo);
             this.headerPanel.Location = new System.Drawing.Point(0, 31);
-            this.headerPanel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.headerPanel.Margin = new System.Windows.Forms.Padding(4);
             this.headerPanel.Name = "headerPanel";
             this.headerPanel.Size = new System.Drawing.Size(741, 153);
             this.headerPanel.TabIndex = 0;
@@ -102,7 +102,7 @@
             // 
             this.picBoxEWULogo.Image = global::EWUScanner.Properties.Resources.newLogo;
             this.picBoxEWULogo.Location = new System.Drawing.Point(8, 2);
-            this.picBoxEWULogo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.picBoxEWULogo.Margin = new System.Windows.Forms.Padding(4);
             this.picBoxEWULogo.Name = "picBoxEWULogo";
             this.picBoxEWULogo.Size = new System.Drawing.Size(515, 153);
             this.picBoxEWULogo.TabIndex = 0;
@@ -130,6 +130,13 @@
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(47, 27);
             this.fileToolStripMenuItem.Text = "File";
+            // 
+            // excludedPathsToolStripMenuItem
+            // 
+            this.excludedPathsToolStripMenuItem.Name = "excludedPathsToolStripMenuItem";
+            this.excludedPathsToolStripMenuItem.Size = new System.Drawing.Size(195, 28);
+            this.excludedPathsToolStripMenuItem.Text = "Excluded Paths";
+            this.excludedPathsToolStripMenuItem.Click += new System.EventHandler(this.excludedPathsToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
@@ -261,7 +268,7 @@
             this.bodyPanel.Controls.Add(this.theProgressBar);
             this.bodyPanel.Controls.Add(this.btnPartialScan);
             this.bodyPanel.Location = new System.Drawing.Point(-1, 185);
-            this.bodyPanel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.bodyPanel.Margin = new System.Windows.Forms.Padding(4);
             this.bodyPanel.Name = "bodyPanel";
             this.bodyPanel.Size = new System.Drawing.Size(743, 249);
             this.bodyPanel.TabIndex = 1;
@@ -271,7 +278,7 @@
             this.picBoxCheck.BackColor = System.Drawing.Color.Transparent;
             this.picBoxCheck.Image = global::EWUScanner.Properties.Resources.check;
             this.picBoxCheck.Location = new System.Drawing.Point(664, 172);
-            this.picBoxCheck.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.picBoxCheck.Margin = new System.Windows.Forms.Padding(4);
             this.picBoxCheck.Name = "picBoxCheck";
             this.picBoxCheck.Size = new System.Drawing.Size(21, 20);
             this.picBoxCheck.TabIndex = 17;
@@ -323,7 +330,7 @@
             this.btnFullScan.Enabled = false;
             this.btnFullScan.Image = global::EWUScanner.Properties.Resources.fullV3;
             this.btnFullScan.Location = new System.Drawing.Point(16, 15);
-            this.btnFullScan.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnFullScan.Margin = new System.Windows.Forms.Padding(4);
             this.btnFullScan.Name = "btnFullScan";
             this.btnFullScan.Size = new System.Drawing.Size(311, 148);
             this.btnFullScan.TabIndex = 13;
@@ -470,7 +477,7 @@
             // 
             this.theProgressBar.BackColor = System.Drawing.SystemColors.Control;
             this.theProgressBar.Location = new System.Drawing.Point(15, 172);
-            this.theProgressBar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.theProgressBar.Margin = new System.Windows.Forms.Padding(4);
             this.theProgressBar.Name = "theProgressBar";
             this.theProgressBar.Size = new System.Drawing.Size(641, 28);
             this.theProgressBar.TabIndex = 1;
@@ -480,19 +487,12 @@
             this.btnPartialScan.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.btnPartialScan.Image = global::EWUScanner.Properties.Resources.partialV2;
             this.btnPartialScan.Location = new System.Drawing.Point(16, 15);
-            this.btnPartialScan.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnPartialScan.Margin = new System.Windows.Forms.Padding(4);
             this.btnPartialScan.Name = "btnPartialScan";
             this.btnPartialScan.Size = new System.Drawing.Size(311, 148);
             this.btnPartialScan.TabIndex = 0;
             this.btnPartialScan.UseVisualStyleBackColor = false;
             this.btnPartialScan.Click += new System.EventHandler(this.btnPartialScan_Click);
-            // 
-            // excludedPathsToolStripMenuItem
-            // 
-            this.excludedPathsToolStripMenuItem.Name = "excludedPathsToolStripMenuItem";
-            this.excludedPathsToolStripMenuItem.Size = new System.Drawing.Size(195, 28);
-            this.excludedPathsToolStripMenuItem.Text = "Excluded Paths";
-            this.excludedPathsToolStripMenuItem.Click += new System.EventHandler(this.excludedPathsToolStripMenuItem_Click);
             // 
             // MainForm
             // 
@@ -505,7 +505,7 @@
             this.Controls.Add(this.mainMenu);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.mainMenu;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(734, 457);
             this.MinimumSize = new System.Drawing.Size(734, 457);
