@@ -1,0 +1,3 @@
+Latest version is 11.4 for EWUScanner
+
+DB viewer is at 4

@@ -1,0 +1,22 @@
+﻿Social Security Numbers:
+	123456789
+	123231234
+	850-23-9876
+	987654321
+	835-56-4321
+	735-89-9876
+	128-99-6475
+	888-95-1223
+	999-52-1258
+
+afterwards there are some other numbers that are not ssns:
+1234
+987065634657
+6789481234
+
+509-281-3675
+the123-12-12345dkd
+
+
+count: 5
+priority: 3

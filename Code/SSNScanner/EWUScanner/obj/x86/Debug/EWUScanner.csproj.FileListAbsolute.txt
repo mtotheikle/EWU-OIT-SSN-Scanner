@@ -1,0 +1,127 @@
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\EWUScanner.exe.config
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\obj\x86\Debug\EWUScanner.exe
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\obj\x86\Debug\EWUScanner.pdb
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\EWUScanner.exe
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\EWUScanner.pdb
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\Delimon.Win32.IO.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\IFilter.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\IKVM.GNU.Classpath.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\IKVM.OpenJDK.Core.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\IKVM.OpenJDK.Management.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\IKVM.OpenJDK.Text.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\IKVM.OpenJDK.Util.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\IKVM.Runtime.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\OfficeParser.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\PDFParser.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\PSTParser.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\SevenZipSharp.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\System.Data.SQLite.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\XMLParser.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\PDFBox-0.7.3.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\bin\Debug\FontBox-0.1.0-dev.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\obj\x86\Debug\EWUScanner.InitializingForm.resources
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\obj\x86\Debug\EWUScanner.MainForm.resources
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\obj\x86\Debug\EWUScanner.Properties.Resources.resources
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\obj\x86\Debug\EWUScanner.AboutForm.resources
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\obj\x86\Debug\ResGen.read.1.tlog
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+Y:\Documents\College\11-12\Spring\CSCD488\Trunk\EWU_Scanner_v2.0\Code\SSNScannerv11.4\EWUScanner\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\EWUScanner.exe.config
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\EWUScanner.exe
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\EWUScanner.pdb
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\Delimon.Win32.IO.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IFilter.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.Runtime.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\OfficeParser.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\PDFParser.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\PSTParser.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\SevenZipSharp.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\System.Data.SQLite.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\XMLParser.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\PDFBox-0.7.3.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.GNU.Classpath.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\FontBox-0.1.0-dev.dll
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.InitializingForm.resources
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.MainForm.resources
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.Properties.Resources.resources
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.AboutForm.resources
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.exe
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.pdb
+C:\Users\Aleks\Desktop\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.ExclusionPaths.resources
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.ExclusionPaths.resources
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.InitializingForm.resources
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.MainForm.resources
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.Properties.Resources.resources
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.AboutForm.resources
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\ResGen.read.1.tlog
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\ResGen.write.1.tlog
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.exe
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\EWUScanner.exe.config
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\EWUScanner.exe
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\EWUScanner.pdb
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\Delimon.Win32.IO.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IFilter.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.OpenJDK.Management.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.Runtime.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\OfficeParser.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\PDFParser.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\PSTParser.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\SevenZipSharp.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\System.Data.SQLite.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\XMLParser.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\PDFBox-0.7.3.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.GNU.Classpath.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\bin\Debug\FontBox-0.1.0-dev.dll
+E:\EWU-OIT-SSN-Scanner II\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.pdb
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\EWUScanner.exe.config
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\EWUScanner.exe
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\EWUScanner.pdb
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\Delimon.Win32.IO.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\IFilter.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.OpenJDK.Core.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.OpenJDK.Management.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.OpenJDK.Text.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.OpenJDK.Util.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.Runtime.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\OfficeParser.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\PDFParser.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\PSTParser.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\SevenZipSharp.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\System.Data.SQLite.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\XMLParser.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\PDFBox-0.7.3.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\IKVM.GNU.Classpath.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\bin\Debug\FontBox-0.1.0-dev.dll
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.ExclusionPaths.resources
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.InitializingForm.resources
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.MainForm.resources
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.Properties.Resources.resources
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.AboutForm.resources
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\obj\x86\Debug\ResGen.read.1.tlog
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\obj\x86\Debug\ResGen.write.1.tlog
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.exe
+Y:\Documents\College\11-12\Spring\CSCD488\Code\SSNScanner\EWUScanner\obj\x86\Debug\EWUScanner.pdb
