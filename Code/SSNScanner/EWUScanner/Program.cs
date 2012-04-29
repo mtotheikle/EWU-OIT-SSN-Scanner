@@ -13,7 +13,7 @@ namespace EWUScanner
         //GUI Form
         public static MainForm mainUIForm = new MainForm();
 
-        private static string[] exclusionPaths;
+        private static List<string> exclusionPaths; //These are the paths that will not be scanned by the scanner
         //======Special Folder Paths===========================================================================================================================
         private static string windowsFolderPath = (Directory.GetParent(System.Environment.GetFolderPath(System.Environment.SpecialFolder.System))).FullName;
         private static string programFilesFolderPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.ProgramFiles);
@@ -49,9 +49,9 @@ namespace EWUScanner
          * returns: void
          * 
         */
-        public static void RunScan(bool adminMode, string[] paths)
+        public static void RunScan(bool adminMode, List<string> paths)
         {
-            //getting the exclusion paths from the MainForm
+            //getting the exclusion paths from the MainForm. The list should be guaranteed to be only strings.
             exclusionPaths = paths;
 
             if (adminMode) //Admin Mode
@@ -59,12 +59,40 @@ namespace EWUScanner
                 //List of all the drives on the system.
                 DriveInfo[] listOfDrives = DriveInfo.GetDrives();
 
+                //check for drive exclusions in the exclusionPaths string
+                foreach (string path in exclusionPaths)
+                {//traverse through all the exclusionPaths
+                    for (int i = 0; i < listOfDrives.Length; i++)
+                    {
+                        try
+                        {
+                            if (listOfDrives[i].Name.StartsWith(path))
+                            {
+                                listOfDrives[i] = null; //for now, i'll set that index to null. I'm uncomfortable setting it to "", I worry that the logic checking might let that drive name "" slip through somehow. But a NULL is pretty blatant.
+                                //I'll keep the NULL and implement the error-checking code.
+                            }
+                        }
+                        catch (NullReferenceException)
+                        {
+                            continue; //i'm setting certain indices to null, and rescanning all indices everytime. Continue will help the scans keep going.
+                        }
+                    }
+                }
+
                 //====Alerts the user of all targeted drives===============================================================================================
                 string drives = "";
                 foreach (DriveInfo drive in listOfDrives)
                 {
-                    if ((drive.DriveType == DriveType.Removable && drive.IsReady) || drive.DriveType == DriveType.Fixed)
-                        drives += drive.Name + " ";
+                    try
+                    {
+                        if ((drive.DriveType == DriveType.Removable && drive.IsReady) || drive.DriveType == DriveType.Fixed)
+                            drives += drive.Name + " ";
+                    }
+                    catch (NullReferenceException)
+                    {//Due to my exclusion path checking, certain drives may be excluded and set as null due to my code.
+                        //This is to catch that error.
+                        continue; //continue iterating through the listOfDrives
+                    }
                 }
 
                 if (!String.IsNullOrEmpty(drives))
@@ -77,8 +105,15 @@ namespace EWUScanner
                 //====initial pass to count how many files are on each drive.================================================================================
                 foreach (DriveInfo drive in listOfDrives)
                 {
-                    if ((drive.DriveType == DriveType.Removable && drive.IsReady) || drive.DriveType == DriveType.Fixed)
-                        totalSize += DetermineSize(drive.Name);
+                    try
+                    {
+                        if ((drive.DriveType == DriveType.Removable && drive.IsReady) || drive.DriveType == DriveType.Fixed)
+                            totalSize += DetermineSize(drive.Name);
+                    }
+                    catch (NullReferenceException)
+                    {//again, due to my coding, there may be a drive missing.
+                        continue;
+                    }
                 }
                 //===========================================================================================================================================
                 
@@ -94,15 +129,31 @@ namespace EWUScanner
                 //====Second pass that parses and scans targeted files.======================================================================================
                 foreach (DriveInfo drive in listOfDrives)
                 {
-                    if ((drive.DriveType == DriveType.Removable && drive.IsReady) || drive.DriveType == DriveType.Fixed)
-                        ScanDirectories(drive.Name);
+                    try
+                    {
+
+                        if ((drive.DriveType == DriveType.Removable && drive.IsReady) || drive.DriveType == DriveType.Fixed)
+                            ScanDirectories(drive.Name);
+                    }
+                    catch (NullReferenceException)
+                    {//skip the null drive and move on
+                        continue;
+                    }
                 }
                 //============================================================================================================================================
             }
             else //Basic Mode
             {
-                totalSize = DetermineSize(usersDirectory);
-
+                //initially, check if usersDirectory was excluded from the scan
+                if (CheckIfExcluded(usersDirectory) == false) //CheckIfExcluded returns true for excluded and false if the file is included in the scan.
+                {
+                    totalSize = DetermineSize(usersDirectory);
+                }
+                else
+                {
+                    totalSize = 0; //In this basic scan mode, the usersDirectory is the only thing being scanned. If for some reason the usersDirectory is excluded
+                    //from the scan and basic scan mode is run..then there will be no paths to scan, so the totalSize of the files will be 0.
+                }
                 try
                 {
                     mainUIForm.theProgressBar.BeginInvoke(new MainForm.InvokeDelegateProgressBarMax(mainUIForm.SetProgressBarMax), new object[] { totalSize });
@@ -110,6 +161,7 @@ namespace EWUScanner
                 }
                 catch (InvalidOperationException) { }
 
+                //ScanDirectories will have exclusion path checking, hopefully that will be more modularized.
                 ScanDirectories(usersDirectory);
             }
 
@@ -117,6 +169,21 @@ namespace EWUScanner
             try { mainUIForm.BeginInvoke(new MainForm.InvokeDelegateScanFinished(mainUIForm.UpdateScanFinished), new object[] { }); }
             catch (InvalidOperationException) { }
 
+        }
+
+        //this method will check to see if the passed in path is excluded from the scan
+        //It will return a boolean: if the path IS excluded, returns true. If the path is NOT excluded, returns false.
+        private static bool CheckIfExcluded(string usersDirectory)
+        {
+            foreach (string path in exclusionPaths)
+            {
+                if(usersDirectory.StartsWith(path))
+                {
+                    return true; //as soon as the path is found to be umbrella'd by the exclusion list, return true, that yes, this path should be excluded
+                }
+            }
+            
+            return false; //false should only be returned if the path passed in is not excluded from the scans
         }
 
         /*
@@ -127,113 +194,131 @@ namespace EWUScanner
          * 
          */
         public static void ScanDirectories(string root)
-        {
-            // Testing code for Michael to scan one directory
-            //root = "Y:\\Documents\\College\\11-12\\Spring\\CSCD488\\Testbed";
+        {//For now, I will test the passed in root to see if it is excluded from scanning
 
-            int currentSize = 0;
+            if (CheckIfExcluded(root) == false) //root is not excluded
+            {//if not excluded, do the scanning
 
-            Stack<string> directories = new Stack<string>(100);
+                // Testing code for Michael to scan one directory
+                //root = "Y:\\Documents\\College\\11-12\\Spring\\CSCD488\\Testbed";
 
-            if (!Directory.Exists(root))
-                throw new ArgumentException();
+                int currentSize = 0;
 
-            directories.Push(root);
+                Stack<string> directories = new Stack<string>(100);
 
-            while (directories.Count > 0)
-            {
-                string currentDirectory = directories.Pop();
+                if (!Directory.Exists(root))
+                    throw new ArgumentException();
 
-                if (!currentDirectory.Equals(windowsFolderPath) && !currentDirectory.Equals(programFilesFolderPath))
+                directories.Push(root);
+
+                while (directories.Count > 0)
                 {
-                    string[] subDirectories;
+                    string currentDirectory = directories.Pop();
 
-                    try
+                    if (!currentDirectory.Equals(windowsFolderPath) && !currentDirectory.Equals(programFilesFolderPath))
                     {
-                        subDirectories = Directory.GetDirectories(currentDirectory);
-                    }
-                    catch (UnauthorizedAccessException u)
-                    {
-                        Database.AddToTableUnScannable(currentDirectory, currentDirectory, Environment.UserName, u.ToString());
-                        continue;
-                    }
-                    catch (System.IO.DirectoryNotFoundException d)
-                    {
-                        Database.AddToTableUnScannable(currentDirectory, currentDirectory, Environment.UserName, d.ToString());
-                        continue;
-                    }
-
-                    string[] files = null;
-
-                    try
-                    {
-                        files = Directory.GetFiles(currentDirectory);
-                    }
-                    catch (UnauthorizedAccessException u)
-                    {
-                        Database.AddToTableUnScannable(currentDirectory, currentDirectory, Environment.UserName, u.ToString());
-                        continue;
-                    }
-                    catch (System.IO.DirectoryNotFoundException d)
-                    {
-                        Database.AddToTableUnScannable(currentDirectory, currentDirectory, Environment.UserName, d.ToString());
-                        continue;
-                    }
-
-                    try{ mainUIForm.lblCurDir.BeginInvoke(new MainForm.InvokeDelegateFilename(mainUIForm.UpdateLblCurFolder), new object[] { currentDirectory });}
-                    catch (InvalidOperationException) { continue; }
-
-                    //iterate through all the files from the current directory
-                    foreach (string file in files)
-                    {
-                        while (!scanning) { }
+                        string[] subDirectories;
+                        //get the subDirectories of the current directory
                         try
                         {
-                            Delimon.Win32.IO.FileInfo fInfo = null;
-
-                            //====Extension Validation: Only create the FileInfo object if it is a targeted file type. ===================================================
-                            bool extValid = ValidateExtension(Path.GetExtension(file));
-                            if (!extValid)
-                                continue;
-                            else
-                                fInfo = new Delimon.Win32.IO.FileInfo(file);
-                            //============================================================================================================================================
-
-                            ProcessFile(fInfo);
-
-                            //====Update form fields =====================================================================================================================
-                            if (currentSize < mainUIForm.theProgressBar.Maximum)
-                                currentSize += (Convert.ToInt32(fInfo.Length) / 1024);
-
-                            int percentage = (int)((double)currentSize / totalSize * 100);
-                            numScanned++;
-
-                            try
-                            {
-                                
-                                mainUIForm.theProgressBar.BeginInvoke(new MainForm.InvokeDelegateProgressBar(mainUIForm.UpdateProgressBar), new object[] { currentSize });
-                                mainUIForm.lblPercentage.BeginInvoke(new MainForm.InvokeDelegatePercentage(mainUIForm.UpdateLblPercentage), new object[] { percentage });
-                                mainUIForm.lblItemsScanned.BeginInvoke(new MainForm.InvokeDelegateScanned(mainUIForm.UpdateLblItemsScanned), new object[] { numScanned });
-                            }
-                            catch (InvalidOperationException) { continue; }
-                            //============================================================================================================================================
-
-                        }
-                        catch (FileNotFoundException f)
-                        {
-                            Database.AddToTableUnScannable(currentDirectory, currentDirectory, Environment.UserName, f.ToString());
-                            continue;
+                            subDirectories = Directory.GetDirectories(currentDirectory);
                         }
                         catch (UnauthorizedAccessException u)
                         {
                             Database.AddToTableUnScannable(currentDirectory, currentDirectory, Environment.UserName, u.ToString());
                             continue;
                         }
-                    }
+                        catch (System.IO.DirectoryNotFoundException d)
+                        {
+                            Database.AddToTableUnScannable(currentDirectory, currentDirectory, Environment.UserName, d.ToString());
+                            continue;
+                        }
+                        //I will use a list to store the subDirectories at this point. The string[] is there because Directory.GetDirectories returns a string[], but
+                        //I'll need to remove excluded paths. To do that, i'll just copy the included scannable paths to a list.
 
-                    foreach (string directoryName in subDirectories)
-                    {
-                        directories.Push(directoryName);
+                        List<string> includedSubDirectories = new List<string>();
+                        //populate the includedSubDirectories with the actual paths to be scanned
+                        foreach (string directory in subDirectories)
+                        {
+                            if(CheckIfExcluded(directory) == false) //meaning, the directory IS to be scanned, it is not excluded
+                            {
+                                includedSubDirectories.Add(directory);
+                            }
+                        }
+
+                        //at the end of this foreach loop, only the directories to be scanned should be in the includedSubDirectories list
+                        string[] files = null;
+
+                        try
+                        {
+                            files = Directory.GetFiles(currentDirectory);
+                        }
+                        catch (UnauthorizedAccessException u)
+                        {
+                            Database.AddToTableUnScannable(currentDirectory, currentDirectory, Environment.UserName, u.ToString());
+                            continue;
+                        }
+                        catch (System.IO.DirectoryNotFoundException d)
+                        {
+                            Database.AddToTableUnScannable(currentDirectory, currentDirectory, Environment.UserName, d.ToString());
+                            continue;
+                        }
+
+                        try { mainUIForm.lblCurDir.BeginInvoke(new MainForm.InvokeDelegateFilename(mainUIForm.UpdateLblCurFolder), new object[] { currentDirectory }); }
+                        catch (InvalidOperationException) { continue; }
+
+                        //iterate through all the files from the current directory
+                        foreach (string file in files)
+                        {
+                            while (!scanning) { }
+                            try
+                            {
+                                Delimon.Win32.IO.FileInfo fInfo = null;
+
+                                //====Extension Validation: Only create the FileInfo object if it is a targeted file type. ===================================================
+                                bool extValid = ValidateExtension(Path.GetExtension(file));
+                                if (!extValid)
+                                    continue;
+                                else
+                                    fInfo = new Delimon.Win32.IO.FileInfo(file);
+                                //============================================================================================================================================
+
+                                ProcessFile(fInfo);
+
+                                //====Update form fields =====================================================================================================================
+                                if (currentSize < mainUIForm.theProgressBar.Maximum)
+                                    currentSize += (Convert.ToInt32(fInfo.Length) / 1024);
+
+                                int percentage = (int)((double)currentSize / totalSize * 100);
+                                numScanned++;
+
+                                try
+                                {
+
+                                    mainUIForm.theProgressBar.BeginInvoke(new MainForm.InvokeDelegateProgressBar(mainUIForm.UpdateProgressBar), new object[] { currentSize });
+                                    mainUIForm.lblPercentage.BeginInvoke(new MainForm.InvokeDelegatePercentage(mainUIForm.UpdateLblPercentage), new object[] { percentage });
+                                    mainUIForm.lblItemsScanned.BeginInvoke(new MainForm.InvokeDelegateScanned(mainUIForm.UpdateLblItemsScanned), new object[] { numScanned });
+                                }
+                                catch (InvalidOperationException) { continue; }
+                                //============================================================================================================================================
+
+                            }
+                            catch (FileNotFoundException f)
+                            {
+                                Database.AddToTableUnScannable(currentDirectory, currentDirectory, Environment.UserName, f.ToString());
+                                continue;
+                            }
+                            catch (UnauthorizedAccessException u)
+                            {
+                                Database.AddToTableUnScannable(currentDirectory, currentDirectory, Environment.UserName, u.ToString());
+                                continue;
+                            }
+                        }
+
+                        foreach (string directoryName in includedSubDirectories)
+                        {
+                            directories.Push(directoryName);
+                        }
                     }
                 }
             }
@@ -250,68 +335,85 @@ namespace EWUScanner
         {
             long totalSize = 0;
 
-            Stack<string> directories = new Stack<string>(100);
+            if (CheckIfExcluded(path) == false)
+            {//for the possibility that the path passed in is excluded and my code didn't catch it somehow.
+                
 
-            if (!Directory.Exists(path))
-                throw new ArgumentException();
+                Stack<string> directories = new Stack<string>(100);
 
-            directories.Push(path);
+                if (!Directory.Exists(path))
+                    throw new ArgumentException();
 
-            while (directories.Count > 0)
-            {
-                string currentDirectory = directories.Pop();
+                directories.Push(path);
 
-                if (!currentDirectory.Equals(windowsFolderPath) && !currentDirectory.Equals(programFilesFolderPath))
+                while (directories.Count > 0)
                 {
-                    string[] subDirectories;
-                    try
-                    {
-                        subDirectories = Directory.GetDirectories(currentDirectory);
-                    }
-                    catch (Exception)
-                    {
-                        continue;
-                    }
+                    string currentDirectory = directories.Pop();
 
-                    string[] files = null;
-
-                    try
+                    if (!currentDirectory.Equals(windowsFolderPath) && !currentDirectory.Equals(programFilesFolderPath))
                     {
-                        files = Directory.GetFiles(currentDirectory);
-                    }
-                    catch (Exception)
-                    {
-                        continue;
-                    }
-
-                    foreach (string file in files)
-                    {
+                        string[] subDirectories;
                         try
                         {
-                            Delimon.Win32.IO.FileInfo fInfo = null;
-
-                            bool extValid = ValidateExtension(Path.GetExtension(file));
-
-                            if (!extValid)
-                                continue;
-                            else
-                                fInfo = new Delimon.Win32.IO.FileInfo(file);
-
-                            //Add the length of the current file to the total: The whole purpose of this method...
-                            totalSize += fInfo.Length;
+                            subDirectories = Directory.GetDirectories(currentDirectory);
                         }
-                        catch (FileNotFoundException)
+                        catch (Exception)
                         {
                             continue;
                         }
-                    }
-                    foreach (string directoryName in subDirectories)
-                    {
-                        directories.Push(directoryName);
+
+                        //check for excluded directories
+                        List<string> includedSubDirectories = new List<string>();
+
+                        foreach (string directory in subDirectories)
+                        {
+                            if (CheckIfExcluded(directory) == false)
+                            {
+                                includedSubDirectories.Add(directory);
+                            }
+                        }
+
+                        string[] files = null;
+
+                        try
+                        {
+                            files = Directory.GetFiles(currentDirectory);
+                        }
+                        catch (Exception)
+                        {
+                            continue;
+                        }
+
+                        foreach (string file in files)
+                        {
+                            try
+                            {
+                                Delimon.Win32.IO.FileInfo fInfo = null;
+
+                                bool extValid = ValidateExtension(Path.GetExtension(file));
+
+                                if (!extValid)
+                                    continue;
+                                else
+                                    fInfo = new Delimon.Win32.IO.FileInfo(file);
+
+                                //Add the length of the current file to the total: The whole purpose of this method...
+                                totalSize += fInfo.Length;
+                            }
+                            catch (FileNotFoundException)
+                            {
+                                continue;
+                            }
+                        }
+                        foreach (string directoryName in includedSubDirectories)
+                        {
+                            directories.Push(directoryName);
+                        }
                     }
                 }
-            }
 
+            }
+            //finally, calculate the amount
             //change from bytes to kilobytes
             totalSize /= 1024;
             return Convert.ToInt32(totalSize);

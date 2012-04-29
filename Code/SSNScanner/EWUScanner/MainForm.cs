@@ -32,7 +32,7 @@ namespace EWUScanner
         public InitializingForm iForm = new InitializingForm();
 
         //to hold the exclusion paths so as to later pass them into the program code
-        internal string[] exclusionPaths; //internal is to be visible in other files
+        internal List<string> exclusionPaths; //internal is to be visible in other files
 
         public MainForm()
         {
@@ -270,9 +270,9 @@ namespace EWUScanner
 
         private void excludedPathsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            ExclusionPaths test = new ExclusionPaths(); //creating the form that will hold the exclusion paths
+            ExclusionPaths p = new ExclusionPaths(); //creating the form that will hold the exclusion paths
 
-            test.Show(this); 
+            p.Show(this); 
         }
 
     }

@@ -40,6 +40,7 @@
             // 
             // AddPath
             // 
+            this.AddPath.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.AddPath.BackColor = System.Drawing.SystemColors.Control;
             this.AddPath.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.AddPath.Location = new System.Drawing.Point(12, 461);
@@ -52,6 +53,7 @@
             // 
             // DoneWithAddingPaths
             // 
+            this.DoneWithAddingPaths.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.DoneWithAddingPaths.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.DoneWithAddingPaths.Location = new System.Drawing.Point(219, 461);
             this.DoneWithAddingPaths.Name = "DoneWithAddingPaths";
@@ -63,25 +65,29 @@
             // 
             // HelpExplanation
             // 
+            this.HelpExplanation.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.HelpExplanation.BackColor = System.Drawing.Color.PeachPuff;
             this.HelpExplanation.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.HelpExplanation.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.HelpExplanation.Location = new System.Drawing.Point(421, 461);
             this.HelpExplanation.Name = "HelpExplanation";
             this.HelpExplanation.Size = new System.Drawing.Size(125, 85);
             this.HelpExplanation.TabIndex = 3;
             this.HelpExplanation.Text = "Help";
-            this.HelpExplanation.UseVisualStyleBackColor = true;
+            this.HelpExplanation.UseVisualStyleBackColor = false;
+            this.HelpExplanation.Click += new System.EventHandler(this.HelpExplanation_Click);
             // 
             // dataGridView1
             // 
             this.dataGridView1.AllowUserToResizeColumns = false;
             this.dataGridView1.AllowUserToResizeRows = false;
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.Azure;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.ExcludedPaths});
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Top;
             this.dataGridView1.Location = new System.Drawing.Point(0, 0);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowHeadersVisible = false;
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.Size = new System.Drawing.Size(582, 412);
             this.dataGridView1.TabIndex = 4;
