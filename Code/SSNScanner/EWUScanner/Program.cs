@@ -1024,8 +1024,9 @@ namespace EWUScanner
                     com.pff.PSTFile pstFile = new com.pff.PSTFile(fInfo.FullName);
                     String text = pstFile.processFolder(pstFile.getRootFolder());
                     com.pff.PSTFolder folder = pstFile.getRootFolder();
-                    processFolder(folder);
+                    processFolder(folder); // Process the main folder, once we hit an email we will scan that email
 
+                    /*
                     if (MainForm.socialSecurityMode)
                     {
                         returnedData = Engine.ScanForSocialSecurity(text);
@@ -1071,6 +1072,7 @@ namespace EWUScanner
                             catch (InvalidOperationException) { }
                         }
                     }
+                    */
                 }
                 catch (UnauthorizedAccessException u)
                 {
@@ -1113,9 +1115,7 @@ namespace EWUScanner
                 depth++;
                 while (email != null)
                 {
-                    Console.Out.WriteLine("Email: " + email.getSubject());
-                    email = (com.pff.PSTMessage)folder.getNextChild();
-
+                    email = (com.pff.PSTMessage) folder.getNextChild();
                     scanEmail(email);
 
                 }
@@ -1127,30 +1127,26 @@ namespace EWUScanner
 
         public static void scanEmail(com.pff.PSTMessage email)
         {
-            ScanData returnedData;
             CreditData ccReturnedData;
 
             try
             {
                 if (MainForm.socialSecurityMode)
                 {
-                    returnedData = Engine.ScanForSocialSecurity(email.getBody());
+                    // @todo Strip strings that are in urls, ex: "<https://someurl.com/1234567890/dod/123456789>"
+                    ScanData returnedData = Engine.ScanForSocialSecurity(email.getBody());
 
                     if (returnedData.RetCode > 0)
                     {
                         //Database entry
                         //WriteToLogFile("Detected: " + fInfo.FullName + " Priority: " + returnedData.Priority);
-                        Database.AddToTableScanned(email.getSubject(), "Email File", returnedData);
+                        String m = email.getBody();
+                        Database.AddToTableScanned(email.getSubject()+email.getEmailAddress(), "Email File", returnedData);
                         try { mainUIForm.lblItemsFound.BeginInvoke(new MainForm.InvokeDelegateFound(mainUIForm.UpdateLblItemsFound), new object[] { numFound++ }); }
                         catch (InvalidOperationException) { }
                     }
                 }
                 // @todo We don't scan email for credit
-            }
-            catch (UnauthorizedAccessException u)
-            {
-                //File is encrypted: Add entry to Uncsannable table with reason: encrypted.
-                Database.AddToTableUnScannable(email.getSubject(), "Email File", Environment.UserName, u.ToString());
             }
             catch (Exception e)
             {
